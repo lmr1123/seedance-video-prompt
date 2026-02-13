@@ -1,0 +1,4 @@
+interface:
+  display_name: "Seedance 视频提示词生成器"
+  short_description: "专业的 Seedance 2.0 AI 视频提示词生成工具"
+  default_prompt: "帮我生成一个 Seedance 视频提示词"
