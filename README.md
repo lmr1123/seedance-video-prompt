@@ -11,6 +11,8 @@
 - 🔄 **迭代优化** - 支持多轮对话持续优化直到满意
 - 📚 **丰富案例库** - 7300+行参考文档，45+精选模板
 - 🎨 **风格关键词** - 导演风格/视觉风格/情绪氛围速查
+- 🎬 **风格组合指南** - 同一提示词5种电影风格呈现对比
+- 🤖 **小白问答系统** - 4步智能诊断，一次得到满意结果
 - 📷 **运镜手册** - 完整的运镜类型和技巧参考
 - 🎥 **影视理论** - 景别/蒙太奇/叙事/声音/色彩等专业知识
 - ❌ **负面提示** - 支持指定不想要的元素
@@ -69,6 +71,8 @@ seedance-video-prompt/
     ├── official-manual.md      # 官方使用手册 (116KB)
     ├── xiaoyunque-cases.md     # 小云雀实测案例库 (79KB)
     ├── personal-collection.md  # 个人收藏案例库 (162KB)
+    ├── style-combinations.md   # 风格组合指南 (NEW)
+    ├── beginner-qa-system.md   # 小白问答系统 (NEW)
     ├── film-theory-guide.md    # 影视理论基础 (12KB)
     ├── style-keywords.md       # 风格关键词速查 (9KB)
     ├── camera-movement.md      # 运镜词汇手册 (10KB)
@@ -84,6 +88,8 @@ seedance-video-prompt/
 | [official-manual.md](references/official-manual.md) | 官方使用手册 - 参数规格、10大类实战案例 |
 | [xiaoyunque-cases.md](references/xiaoyunque-cases.md) | 小云雀实测案例库 - 15+场景类型 |
 | [personal-collection.md](references/personal-collection.md) | 个人收藏案例库 - 45+精选模板 |
+| [style-combinations.md](references/style-combinations.md) | 风格组合指南 - 同一提示词5种电影风格对比 |
+| [beginner-qa-system.md](references/beginner-qa-system.md) | 小白问答系统 - 4步智能诊断系统 |
 | [film-theory-guide.md](references/film-theory-guide.md) | 影视理论基础 - 景别/蒙太奇/叙事等 |
 | [style-keywords.md](references/style-keywords.md) | 风格关键词速查 - 导演风格/视觉风格 |
 | [camera-movement.md](references/camera-movement.md) | 运镜词汇手册 - 运镜类型/角度视角 |

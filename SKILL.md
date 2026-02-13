@@ -375,6 +375,8 @@ description: 专业的 Seedance 2.0 AI 视频提示词生成工具。根据用�
 |------|------|
 | [xiaoyunque-cases.md](references/xiaoyunque-cases.md) | 🎬 小云雀实测案例库 - 15+场景类型 |
 | [personal-collection.md](references/personal-collection.md) | 📚 个人收藏案例库 - 45+精选模板 |
+| [style-combinations.md](references/style-combinations.md) | 🎭 风格组合指南 - 同一提示词5种电影风格对比 |
+| [beginner-qa-system.md](references/beginner-qa-system.md) | 🤖 小白问答系统 - 4步智能诊断系统 |
 | [multimodal-capabilities.md](references/multimodal-capabilities.md) | 🔧 多模态能力列表 |
 
 ### 案例库内容索引
