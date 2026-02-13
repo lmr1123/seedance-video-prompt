@@ -21,7 +21,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/YOUR_USERNAME/seedance-video-prompt.git
+git clone https://github.com/lmr1123/seedance-video-prompt.git
 
 # 复制到 Claude Code skills 目录
 cp -r seedance-video-prompt ~/.claude/skills/
@@ -30,7 +30,7 @@ cp -r seedance-video-prompt ~/.claude/skills/
 ### 方法二：使用 Claude Code CLI
 
 ```bash
-npx @anthropic-ai/claude-code skill add https://github.com/YOUR_USERNAME/seedance-video-prompt
+npx @anthropic-ai/claude-code skill add https://github.com/lmr1123/seedance-video-prompt
 ```
 
 ## 🚀 快速开始
