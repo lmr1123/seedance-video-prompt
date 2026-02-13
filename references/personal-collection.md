@@ -1,19 +1,3 @@
----
-标题: "Thread by @johnAGI168"
-链接: "https://x.com/johnAGI168/status/2020027994429911370"
-作者: "[[@johnAGI168]]"
-创建时间: "2026-02-08T17:41:11+08:00"
-摘要: "文章展示了字节Seedance 2.0模型根据详细文本提示生成的10秒中国春晚风格视频，内容为《甄嬛 & 华妃脱口秀》，体现了AI视频生成技术的惊人进步。"
-tags:
-  - "clippings"
-  - "AI"
-  - "视频生成"
-  - "字节跳动"
-  - "Seedance 2.0"
-  - "春晚"
----
-**John** @johnAGI168 [2026-02-07](https://x.com/johnAGI168/status/2020027994429911370)
-
 太炸裂了😱
 
 字节Seedance 2.0，纯文生视频这效果😱
@@ -88,83 +72,7 @@ prompt：10 秒中国春晚风格舞台表演：《甄嬛 & 华妃脱口秀》
 
 ![](file-20260210204142285.png)
 
----
 
-**John** @johnAGI168 [2026-02-07](https://x.com/johnAGI168/status/2020030405374816413)
-
-这到底是什么神仙模型啊😱
-
----
-
-**IL MAKIAGE** @ilmakiage
-
-Your foundation should be THE foundation.
-
-Start with our best-selling foundation - then complete your base with a primer and concealer for smooth, balanced wear all day.
-
-🎯 700K+ five-star reviews.
-
-Take the quiz - Try Before You Buy  
-你的基础应该是那个基础。
-
-从我们最畅销的粉底开始——然后用妆前乳和遮瑕膏完成底妆，让你全天都能顺滑平衡地佩戴。
-
-🎯 70 万+五星好评。
-
-参加测验——先试用再购买
-
----
-
-**Louis Chen** @LouisChen737 [2026-02-08](https://x.com/LouisChen737/status/2020307825969537383)
-
-这效果，春晚以后也不用演了，不用彩排好几个月了，以后人均春晚总导演了
-
----
-
-**tiantian** @wherecall1 [2026-02-07](https://x.com/wherecall1/status/2020279065182433562)
-
-真正达到实用级别，以前的视频模型感觉都是玩具，只能做做demo
-
----
-
-**ailth** @mushengziyue [2026-02-08](https://x.com/mushengziyue/status/2020372111026712774)
-
-华妃声音好像，甄嬛不太对，怎么破
-
----
-
-**加密十三娘** @shisan58613306 [2026-02-07](https://x.com/shisan58613306/status/2020283070772035902)
-
-哇这效果太惊艳了纯文生视频把春晚舞台还原得好生动---
-标题: "Thread by @johnAGI168"
-链接: "https://x.com/johnAGI168/status/2020773928734527656"
-作者: "[[@johnAGI168]]"
-创建时间: "2026-02-10T20:35:55+08:00"
-摘要: "文章宣布了 Grok 游戏日广告竞赛的获奖者，在48小时内收到了超过4000份参赛作品，展示了大胆创意和意想不到的解读。"
-tags:
-  - "clippings"
-  - "AI"
-  - "广告竞赛"
-  - "Grok"
-  - "X平台"
-  - "产品"
----
-**John** @johnAGI168 [2026-02-09](https://x.com/johnAGI168/status/2020773726435029031)
-
-I just used a single prompt with Seedance 2.0 to recreate this million-dollar winning video. Do you think it's worth $10,000💵?
-
-prompt👇  
-我用 Seedance 2.0 的单一提示词，重现了这段价值百万美元的中奖视频。你觉得值一万美元 💵 吗？
-
-提示 👇
-
-> 2026-02-08
-> 
-> ![Article cover image](https://pbs.twimg.com/media/HAqBV-_aIAAiJ1S?format=jpg&name=large)
-
----
-
-**John** @johnAGI168 [2026-02-09](https://x.com/johnAGI168/status/2020773928734527656)
 
 Seedance 2.0 纯文生视频prompt：
 
@@ -214,30 +122,6 @@ Seedance 2.0 纯文生视频prompt：
 
 ![](file-20260210204143759.png)
 
----
-
-**John** @johnAGI168 [2026-02-09](https://x.com/johnAGI168/status/2020774256322527626)
-
-@grok Check out my video, how do you think it is? 🧚‍♀️🎬  
-@grok 看看我的视频，你觉得怎么样？ 🧚‍♀️ 🎬---
-标题: "Thread by @johnAGI168"
-链接: "https://x.com/johnAGI168/status/2020794007291404726"
-作者: "[[@johnAGI168]]"
-创建时间: "2026-02-12T21:24:12+08:00"
-摘要: "文章内容是关于用户 John 在 X 平台上发布了一段使用“丹尼斯·维伦纽瓦风格”等提示词生成的 15 秒 AI 视频，并展示了其他用户对此视频的评论和讨论。"
-tags:
-  - "clippings"
-  - "AI"
-  - "视频生成"
-  - "提示工程"
-  - "丹尼斯·维伦纽瓦"
-  - "知识产权"
----
-**John** @johnAGI168 [2026-02-09](https://x.com/johnAGI168/status/2020794007291404726)
-
-Funds are burning 🔥 Hollywood is calling it Amazing!
-
-MAX POWER! Seedance 2.0 NB👍
 
 prompt👇
 
@@ -254,87 +138,6 @@ Style: IMAX 70mm Film, Denis Villeneuve Style, Gritty Realism, Epic Scale, Desat
 
 ---
 
-**Rizo.** @ErezRizoZohar [2026-02-09](https://x.com/ErezRizoZohar/status/2020818473455091794)
-
-Seedance 2 is available?  
-Seedance 2 可以玩了吗？
-
----
-
-**John** @johnAGI168 [2026-02-09](https://x.com/johnAGI168/status/2020829519935156370)
-
-Some  
-一些
-
----
-
-**Saul Goodman** @Goodmanprotocol [2026-02-09](https://x.com/Goodmanprotocol/status/2020813334132527402)
-
-This is truly amazing  
-这真是太不可思议了
-
----
-
-**John** @johnAGI168 [2026-02-09](https://x.com/johnAGI168/status/2020829554227769504)
-
-Yes  
-是的
-
----
-
-**Shwvi** @Shwvi1 [2026-02-11](https://x.com/Shwvi1/status/2021570501911417218)
-
-Where can I access Seedance 2?  
-我可以在哪里下载 Seedance 2？
-
----
-
-**John** @johnAGI168 [2026-02-11](https://x.com/johnAGI168/status/2021571042095845710)
-
-At present, only Chinese users can use it.😊  
-目前只有中国用户可以使用。 😊
-
----
-
-**Cédric G. / effi10** @effi\_10 [2026-02-10](https://x.com/effi_10/status/2021170413900873885)
-
-What about the price versus Kling 3.0 ?...  
-与 Kling 3.0 相比，价格如何？
-
----
-
-**John** @johnAGI168 [2026-02-10](https://x.com/johnAGI168/status/2021196090440286484)
-
-Too cheap!  
-太便宜了！
-
----
-
-**Noctrix** @GogHeng [2026-02-09](https://x.com/GogHeng/status/2020840745289359560)
-
-"Denis Villeneuve style" in a prompt is doing heavy lifting. But here's the real question: at what point does style-transfer from living directors become a legal issue? We're prompt-engineering our way into IP gray zones nobody's mapped yet.  
-“丹尼斯·维伦纽瓦风格”这样的提示意义重大。但真正的问题是：从在世导演那里借鉴作品风格，在什么情况下会构成法律问题？我们正在利用提示，一步步进入知识产权的灰色地带，而这片地带此前无人涉足。
-
----
-
-**Steven Knows** @stevenknowsweb [2026-02-09](https://x.com/stevenknowsweb/status/2020998607567192547)
-
-Tried the same Prompt in #GrokImagine and had to add slow moving to the sandstorm prompt. Plus at a max of 10 seconds it didn't really work. But it did understand timing among other things.  
-我在 #GrokImagine 中尝试了同样的提示 ，发现必须在沙尘暴提示中添加“缓慢移动”的字样。而且，最多 10 秒的提示时间似乎不太有效。不过，它确实能够理解时间信息等等。---
-标题: "Thread by @johnAGI168"
-链接: "https://x.com/johnAGI168/status/2021478327525974151"
-作者: "[[@johnAGI168]]"
-创建时间: "2026-02-11T22:05:09+08:00"
-摘要: "这是一篇关于用户John分享使用Seedance 2.0 AI视频生成工具创建MrBeast风格和抖音风格视频提示的推文。"
-tags:
-  - "clippings"
-  - "AI"
-  - "Seedance 2.0"
-  - "文生视频"
-  - "MrBeast"
-  - "抖音"
----
-**John** @johnAGI168 [2026-02-11](https://x.com/johnAGI168/status/2021478327525974151)
 
 MrBeast YouTube Viral📺
 
@@ -369,24 +172,6 @@ Seedance 2.0 文字转视频提示 👇
 
 10-15秒：慢动作跳入代币池。漫天飞舞的彩带瞬间弥漫开来。纯粹的混乱与喜悦。
 
-#Seedance2 2.0
-
-![](file-20260211225421094.png)
----
-标题: "Thread by @johnAGI168"
-链接: "https://x.com/johnAGI168/status/2021575161917448307"
-作者: "[[@johnAGI168]]"
-创建时间: "2026-02-12T21:08:25+08:00"
-摘要: "文章展示了使用Seedance 2.0 AI视频生成工具创作的两个短片提示词案例，一个是都市奇幻爱情短剧《好运降临》，另一个是未来科技商业广告《品牌Y·未来已至》。"
-tags:
-  - "clippings"
-  - "AI"
-  - "Seedance 2.0"
-  - "文生视频"
-  - "提示词工程"
-  - "产品"
----
-**John** @johnAGI168 [2026-02-11](https://x.com/johnAGI168/status/2021575161917448307)
 
 OMG😱孙哥的奇幻爱情故事《好运降临》！  
   
@@ -445,37 +230,6 @@ Seedance 2.0全能参考 prompt👇
   
 字幕特效：大字显示《好运降临》。  
   
-#Seedance2 2.0  
-#Seedance2 2.0
-
-![](file-20260212214544343.png)
----
-标题: "Thread by @ponyodong"
-链接: "https://x.com/ponyodong/status/2021867983837221142"
-作者: "[[@ponyodong]]"
-创建时间: "2026-02-13T00:51:18+08:00"
-摘要: "本文是一篇关于用户“ponyo”分享使用 SeedDance 2.0 AI 工具生成自然动态人像视频的经验和提示词技巧的推文。"
-tags:
-  - "clippings"
-  - "AI"
-  - "SeedDance 2.0"
-  - "AI生成视频"
-  - "提示词技巧"
-  - "数字人像"
----
-**ponyo** @ponyodong [2026-02-12](https://x.com/ponyodong/status/2021860046855188606)
-
-如何用 SeedDance 2.0 拍摄出闺蜜私房视频？最近真的被 SeedDance 2.0 喂饱了！😭
-
-以前总觉得 AI 生成的人像虽然美，但总缺了点“人味儿”。但这次，我亲手“养”出来的这四个女孩——茶花、雪渡烟、青梅、落，真的让我看到了数字生命的呼吸感
-
----
-
-**ponyo** @ponyodong [2026-02-12](https://x.com/ponyodong/status/2021867983837221142)
-
-怎么让AI女孩动得不僵硬？🪄  
-  
-既然大家都想要咒语，那我就不藏私了！
 
 其实让女孩们“美”很容易，但要让她们“动”得自然（比如那种抢手机时的推搡感），这才是最玄学的地方。  
   
@@ -501,23 +255,6 @@ tags:
 视频指令： Outdoor hot spring at sunset. Splashing water at each other. Thick steam rising, realistic water ripples. Sunset warm light, bokeh background.  
 视频说明：户外温泉，日落时分。人们互相泼水。浓浓的蒸汽升腾，逼真的水波纹。夕阳的暖光，虚化的背景。
 
-![Image](https://pbs.twimg.com/media/HA8dCVVbsAQVGp9?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HA8dlTnbsAA16Ij?format=jpg&name=large)---
-标题: "Thread by @johnAGI168"
-链接: "https://x.com/johnAGI168/status/2020788951678607813"
-作者: "[[@johnAGI168]]"
-创建时间: "2026-02-10T20:31:42+08:00"
-摘要: "用户分享了一个使用Seedance 2.0模型生成的文生视频提示词，描述了一个带有悬疑喜剧色彩的伪纪录片风格短片，并展示了相关讨论和不同AI模型（如Sora2）的生成效果对比。"
-tags:
-  - "clippings"
-  - "AI"
-  - "文生视频"
-  - "Seedance 2.0"
-  - "Sora2"
-  - "社交媒体讨论"
----
-**John** @johnAGI168 [2026-02-09](https://x.com/johnAGI168/status/2020788951678607813)
-
-😱😱😱 Seedance 2.0模型能力真的没有边界吗？
 
 着实实在是给吓了一跳OMG
 
@@ -535,59 +272,7 @@ Seedance 2.0 文生视频prompt👇
 
 \[00:11-00:15\] 镜头3：喜剧回马枪（The Punchline）。 动作：已经走到门口的主角似乎感觉到了不对劲，猛地回头看向镜子。 结果：镜子此时已经完全恢复正常，空空荡荡，只照出对面的墙壁。主角一脸懵逼地挠头，对着镜头露出怀疑人生的表情。画面在主角的懵逼脸中定格（喜剧效果）。
 
-![](file-20260210204143966.png)
-![](file-20260210204143964.png)
 
-
-**Nomadsoul** @kone12185334 [2026-02-09](https://x.com/kone12185334/status/2020808000206704711)
-
-和prompt描述不一致，但也算是有创意
-
----
-
-**John** @johnAGI168 [2026-02-09](https://x.com/johnAGI168/status/2020810223603024078)
-
-是的，后面提示词遵循偏差了，不过效果确实是吓人一跳
-
----
-
-**Jack王** @kingopen3 [2026-02-09](https://x.com/kingopen3/status/2020910191873753158)
-
-@grok 怎么制作的
-
----
-
-**思索者** @404jsh [2026-02-09](https://x.com/404jsh/status/2020903913113997681)
-
-同样提示词。Sora2 效果🤣🤣🤣
-
----
-
-**梭哈是一种智慧** @wan908722455 [2026-02-09](https://x.com/wan908722455/status/2020881125439365165)
-
-@XGetBot 保存视频---
-标题: "Thread by @johnAGI168"
-链接: "https://x.com/johnAGI168/status/2020717903134204344"
-作者: "[[@johnAGI168]]"
-创建时间: "2026-02-10T20:38:57+08:00"
-摘要: "这是一篇关于用户展示Seedance 2.0模型生成的超写实巨猫视频的社交媒体帖子及其相关讨论。"
-tags:
-  - "clippings"
-  - "AI"
-  - "视频生成"
-  - "Seedance 2.0"
-  - "社交媒体"
-  - "字节跳动"
----
-**John** @johnAGI168 [2026-02-09](https://x.com/johnAGI168/status/2020717903134204344)
-
-不是啊😱
-
-Seedance 2.0到底是什么神仙模型啊❓
-
-无所不能啊感觉是❕
-
-meme
 
 prompt👇
 
@@ -615,94 +300,6 @@ prompt👇
 #seedance2
 
 ---
-
-**神奇工具官～关注必回** @yehancheng3 [2026-02-09](https://x.com/yehancheng3/status/2020752421660811653)
-
-兄弟你究竟冲了多少钱😂
-
----
-
-**John** @johnAGI168 [2026-02-09](https://x.com/johnAGI168/status/2020762275993223547)
-
-一点点🤏
-
----
-
-**cysca** @cyscays [2026-02-09](https://x.com/cyscays/status/2020719796971565249)
-
-Kling 3.0 looks weak next to this  
-Kling 3.0 在这张照片旁边显得很弱
-
----
-
-**John** @johnAGI168 [2026-02-09](https://x.com/johnAGI168/status/2020720558841761832)
-
-Yes, it's not even in the same league  
-是的，这根本不是一个级别
-
----
-
-**AI实战派** @Daixufeng666 [2026-02-09](https://x.com/Daixufeng666/status/2020838400031658133)
-
-@grok介绍一下这个软件是什么
-
----
-
-**小渔** @P6zZw [2026-02-09](https://x.com/P6zZw/status/2020743460043801033)
-
-未来属于大数据。字节跳动拥有庞大的大数据，这些大数据作为支撑。什么不能实现。
-
----
-
-**LeoY** @Leoy2025Y [2026-02-09](https://x.com/Leoy2025Y/status/2020826518042349755)
-
-但其实这挺恐怖的（至少我觉得），影视飓风也出过关于这个的视频（今天早上看到的）
-
----
-
-**Geddings** @Evenios [2026-02-09](https://x.com/Evenios/status/2020924472983982403)
-
-i hear they are now limiting it to you cant use realistic people anymore is that true? hopefully only temporary or something...  
-我听说他们现在限制了“你不能再用真实人物”了，这是真的吗？希望只是暂时的什么的......
-
----
-
-**ailth** @mushengziyue [2026-02-09](https://x.com/mushengziyue/status/2020853366973243797)
-
-全球最强，没有之一
-
----
-
-**Zerui Hui** @zeruihui [2026-02-09](https://x.com/zeruihui/status/2020797837055840720)
-
-重庆洪崖洞文旅投资公司，马上会买下你的版权
-
----
-
-**cysca** @cyscays [2026-02-09](https://x.com/cyscays/status/2020719342317408735)
-
-cute ❤️  
-可 ❤️ 爱
-
----
-
-**Dhhk.xyz** @dhhk\_xyz [2026-02-09](https://x.com/dhhk_xyz/status/2020741671248683381)
-
-你这每一帧的巨猫，大小都不一样---
-标题: "Thread by @johnAGI168"
-链接: "https://x.com/johnAGI168/status/2021202576163643679"
-作者: "[[@johnAGI168]]"
-创建时间: "2026-02-11T22:08:42+08:00"
-摘要: "用户John分享了一个用于AI视频生成工具Seedance 2.0的详细提示词，描述了一个赛博朋克风格、包含角色从伪装到变身为战斗天使的12秒短片分镜脚本。"
-tags:
-  - "clippings"
-  - "AI"
-  - "视频生成"
-  - "Seedance 2.0"
-  - "赛博朋克"
-  - "提示词工程"
----
-**John** @johnAGI168 [2026-02-10](https://x.com/johnAGI168/status/2021202576163643679)
 
 冷酷、自信、无所畏惧！🕶
 
@@ -748,60 +345,9 @@ Seedance 2.0 文生视频 prompt 👇
 
 #seedance2
 
-![](file-20260211225421479.png)
-
-
----
-
-**ragnala92** @aditiasiswara [2026-02-10](https://x.com/aditiasiswara/status/2021284169847013483)
-
-thanks bro  
-谢谢兄弟
-
----
-
-**Alice Games** @alice\_game77056
-
-🍕 Your passion and paradise.
-
-🇮🇹 Run your own cozy cafe in the heart of sun-soaked Italy with your friend. (or solo)
-
-😎 This summer, live la dolce vita – wishlist now on Steam: https://store.steampowered.com/app/3196440/Vacation\_Cafe\_Simulator/?utm\_source=twitterNikita&utm\_campaign=Upfront&utm\_medium=UP1&twclid=2-3e1f8qs0wib5x0hn2wyrs4ix2…  
-🍕 你的激情与天堂。
-
-🇮🇹 和朋友一起（或者独自一人）在阳光明媚的意大利中心地带经营一家温馨的咖啡馆。
-
-😎 今年夏天，尽情享受甜蜜生活——立即在 Steam 上加入愿望单： https://store.steampowered.com/app/3196440/Vacation\_Cafe\_Simulator/?utm\_source=twitterNikita&utm\_campaign=Upfront&utm\_medium=UP1&twclid=2-3e1f8qs0wib5x0hn2wyrs4ix2…
-
-![Image](https://pbs.twimg.com/media/GjnBT9DXsAEgLrX?format=png&name=large)---
-标题: "Thread by @johnAGI168"
-链接: "https://x.com/johnAGI168/status/2020890605933445522"
-作者: "[[@johnAGI168]]"
-创建时间: "2026-02-10T20:29:50+08:00"
-摘要: "用户John分享了他对AI视频生成模型Seedance 2.0的积极体验，展示了其根据单张图片生成高质量、风格一致的好莱坞式动作视频的能力，并提供了详细的生成提示词。"
-tags:
-  - "clippings"
-  - "AI"
-  - "Seedance 2.0"
-  - "视频生成"
-  - "AI模型"
-  - "好莱坞特效"
----
-**John** @johnAGI168 [2026-02-09](https://x.com/johnAGI168/status/2020889904708796628)
-
-Seedance 2.0 杀疯了😈😈😈
-
-手机端app的Seedance 2.0模型都给下架了，网页版目前还可以使用！
-
 一张图片参考生成视频，一致性保持的太好了！
 
 顶级好莱坞效果🐶🐶🐶
-
-#seedance2
-
----
-
-**John** @johnAGI168 [2026-02-09](https://x.com/johnAGI168/status/2020890605933445522)
 
 prompt👇
 
@@ -821,394 +367,6 @@ prompt👇
 
 4. 人物表现： 主角眼神坚毅，头发随风和气浪凌乱飞舞，动作充满力量感和速度感，完美复刻好莱坞动作巨星的风范。
 
-![Image](https://pbs.twimg.com/media/HAulKEhagAA3E49?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HAulKEkbMAAsLzb?format=jpg&name=large)
-
----
-
-**Yuli** @yuli\_kamakura [2026-02-09](https://x.com/yuli_kamakura/status/2020897219289952361)
-
-网页端地址看不到
-
----
-
-**harryskomi** @HarrysKomi [2026-02-09](https://x.com/HarrysKomi/status/2020926685722574961)
-
-cool dude  
-酷哥们---
-标题: "万物皆可参考是种什么体验？Vidu Q2参考生Pro：特效、演技、细节全都要"
-链接: "https://mp.weixin.qq.com/s/JwHBqS5JQ6H-FNV1vHbpZQ"
-作者: "[[关注AI的]]"
-创建时间: "2026-01-28T16:29:40+08:00"
-摘要: "本文介绍了Vidu Q2参考生Pro的发布，这是一个AI视频生成模型，其核心功能是“万物可参考”，能够通过参考视频或图片来精准控制生成视频的特效、人物演技、材质纹理等细节，并支持对现有视频进行精准的元素增删修改，标志着AI视频生成从随机“抽卡”走向了高度可控的“精修”阶段。"
-tags:
-  - "clippings"
-  - "AI"
-  - "视频生成"
-  - "Vidu"
-  - "人工智能"
-  - "内容创作"
----
-原创 关注AI的 [机器之心](https://mp.weixin.qq.com/s/)
-
-*2026年1月28日 12:56* *四川*
-
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/KmXPKA19gW889cR13aBX42evqQIRibKlicoCrHPEpT0tQiceNphESCa2eJTqstP8G0yqMTkeMFrOGue6kOyCKdTkA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0)
-
-编辑｜+0
-
-  
-
-最近，一段「威尔·史密斯吃意面」的今昔对比视频在社交媒体刷屏，引发了无数感慨。
-
-  
-
-<video data-v-6b6a00a5="" src="https://mpvideo.qpic.cn/0b2ekya5kaabh4ak6u3ymruvcvwd2vladvia.f10002.mp4?dis_k=8c28ff5fdb873436063186cbcb22a4a5&amp;dis_t=1769588535&amp;play_scene=10120&amp;auth_info=Dde+8oFTaABl/7ewxj0BUCtpXmoaFmJediZrT1Y9NAc9Nn51FjoCaRECcCVKGBM=&amp;auth_key=8d75c23ce8eef217f654a7eab0fb57d7&amp;vid=wxv_4361683606130245656&amp;format_id=10002&amp;support_redirect=0&amp;mmversion=false" poster="http://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gWibtx4RYLibJR5sfY68p6jG0tZz15iavTJwjTbGRhHypDZekQJcQch3HAgic2ltlDFYtib6avo16qUemNg/0?wx_fmt=jpeg&amp;wxfrom=16" webkit-playsinline="isiPhoneShowPlaysinline" playsinline="isiPhoneShowPlaysinline" preload="metadata" crossorigin="anonymous" controlslist="nodownload" class="video_fill" style="display: block; width: 661px; height: 372px;">您的浏览器不支持 video 标签</video>
-
-  
-
-两年前，初出茅庐的 AI 视频还是「抽象鬼畜」的代名词，五官乱飞、逻辑崩坏；仅仅两年过去，当同一主题再次被演绎，从吞咽时肌肉的牵动，到光影在面部的细腻流转，AI 已进化至「惟妙惟肖」的真·智能水准。
-
-  
-
-这两年，浓缩了 AI 视频生成行业翻天覆地的技术跃迁。然而，行业并未止步于画质的内卷。在各家厂商竞逐「可控性」高地的当下，AI 视频正站在一个关键转折点：从解决「有没有」，到追求「精不精」。
-
-  
-
-回顾 Vidu 的进化之路：2025 年 9 月，Vidu Q2 全球首发，以惊艳的图生视频、参考生视频能力技惊四座；12 月，Q2「生图全家桶」上线，首日突破 50 万次的使用量，印证了市场对高质量生成的渴望。
-
-  
-
-昨天，Vidu Q2 参考生 Pro 正式发布。
-
-  
-
-登陆 Vidu.cn 或 Vidu API：platform.vidu.cn，体验最新产品功能。
-
-  
-
-短短数月，它完成了从「生成」到「编辑」的闭环，更推出了全球首个「万物可参考」的视频模型，将参考模态从静态图像一举扩展至动态视频与多维元素。其全新 Slogan「视频参考，创想无限」，不再是一句营销口号，而是对 AI 视频生产流的一次底层重构。
-
-  
-
-此次更新带来了两大功能亮点，重新定义了 AI 的「模仿」与「创造」：
-
-  
-
-- ### 视频参考：特效与演技的「万能格式刷」
-
-###   
-
-Vidu Q2 参考生 Pro 不仅极大丰富了参考类型（涵盖人物、场景、特效、表情、动作、材质纹理等），更在模态上实现了质的飞跃。
-
-  
-
-作为全球首个「万物可参考」的视频模型，它打破了图片的束缚，能同时处理多段视频素材。只需输入参考视频，无论是百万级的电影特效、细腻的微表情，还是复杂的流体纹理，都能实现一键迁移。它能精准拿捏细微情绪，让演技自然可信，让特效落地生根。
-
-  
-
-- ### 视频编辑：不再「牵一发而动全身」
-
-###   
-
-基于强大的视频参考能力，Vidu 让视频编辑告别了不可预测的抽卡。
-
-  
-
-Vidu Q2 参考生 Pro 支持对视频内元素的精准增、删、改、减：从改变人物站位、调整画幅比例，到更换背景、美颜美发，甚至进行复合编辑，均可通过参考指令一键达成。得益于支持 2 个视频 + 4 张图片的多模态高并发输入能力，即便历经多次复合编辑，视频的核心元素与画面一致性依然稳如磐石。
-
-  
-
-话不多说，我们直接上手体验。
-
-  
-
-## 从「抽卡」到「精修」，
-
-## 这回是真的吗？
-
-##   
-
-Slogan 里的「视频参考」到底成色几何？为了验证它是否真能让人一键化身「AI 影帝」并拥有随心所欲的控制力，我们设计了三个测试场景，实测它在多视频参考与细节增删上的真实表现。
-
-  
-
-### 场景一：一键复刻，演技与特效的「神形合一」
-
-###   
-
-动作捕捉和百万特效并不是新鲜事，还记得《阿凡达》拍摄时，卡梅隆是用怎样复杂的设备与调度才完美呈现了纳美人的世界吗？此前 AI 往往只能捕捉大概的肢体动作，一旦涉及到人物外观的剧烈变形或特效加载，一直是灾难现场（参考两年前的威尔·史密斯）。
-
-  
-
-先看官方演示：让指定人物完美复刻《X 战警》中魔形女的变身过程。
-
-  
-
-**输入：**  
-
-  
-
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_gif/KmXPKA19gWibtx4RYLibJR5sfY68p6jG0tIPmzYDaTsFaspxCGPbgXvEweia5DZXXuOwzxGQwuXYjsibuibibx5qkZvQ/640?wx_fmt=gif&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=1)
-
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/KmXPKA19gWibtx4RYLibJR5sfY68p6jG0toR1yN3fwiaYygXsx5yicJL1gSnIKIEAxngcGp18rLic5twZeNAgjMlxBw/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=2)
-
-  
-
-**输出：**  
-
-  
-
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_gif/KmXPKA19gWibtx4RYLibJR5sfY68p6jG0tvYrU0cicF2rBQib9SLrGuL8o0yamVJuQmHnvIu4SLXTgq3kibehvDyFKQ/640?wx_fmt=gif&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=3)
-
-  
-
-这效果，只能说「百万特效一键白嫖」真不是吹的。这不仅是视觉层面的「高保真」，更是对传统特效制作逻辑的降维打击。
-
-  
-
-以往需要专业团队耗时数周、燃烧经费才能实现的流体变形与高精特效，如今被 Vidu Q2 参考生 Pro 压缩至边际成本几近归零。这种生产力的跃迁，意味着影视创作将告别「唯预算论」的旧时代。当工业级特效不再是昂贵的奢侈品，创作者的想象力，将成为衡量作品价值的唯一天花板。
-
-  
-
-那 AI 的演技如何呢？我们玩个大的，让 Vidu 挑战张曼玉在《甜蜜蜜》中的经典哭戏。
-
-  
-
-我们上传了原片作为参考，要求生成的虚拟角色复刻这一瞬间： 
-
-  
-
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_gif/KmXPKA19gWibtx4RYLibJR5sfY68p6jG0tFkVQGPZSz5Via9ibFxUgp2QblHP8GHMvvibh3X9da1QTM8PEhAppsAdjg/640?wx_fmt=gif&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=4)
-
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/KmXPKA19gWibtx4RYLibJR5sfY68p6jG0tMsByXPMryw2ZvWQ7hODGyf6uK9iaRxmrnDBoDSxqv64TaVRPyKRgFPg/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=5)
-
-  
-
-**输出：**  
-
-  
-
-<video data-v-6b6a00a5="" src="https://mpvideo.qpic.cn/0b2enua6aaabmaajxl3yx5uvc3od4bwqdyaa.f10002.mp4?dis_k=0a56169a61a888c59bc752816601e599&amp;dis_t=1769588535&amp;play_scene=10120&amp;auth_info=X+3HrTU5VGn+5OPLbVZTdGwKY0wdblUjI2QeBDI3VmdkKnEUalM9HQMjdkdIRA==&amp;auth_key=52f79e384c5129c699caa7e2ae763532&amp;vid=wxv_4361686362291355658&amp;format_id=10002&amp;support_redirect=0&amp;mmversion=false" poster="http://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gWibtx4RYLibJR5sfY68p6jG0tuibrGOlELY7l2ttLx0L1kNKknria2cUc0wKGGSQQrKEzn5a3TOVne0ng/0?wx_fmt=jpeg&amp;wxfrom=16" webkit-playsinline="isiPhoneShowPlaysinline" playsinline="isiPhoneShowPlaysinline" preload="metadata" crossorigin="anonymous" controlslist="nodownload" class="video_fill" style="display: block; width: 661px; height: 372px;">您的浏览器不支持 video 标签</video>
-
-  
-
-有一说一，AI 复刻得相当传神，眉眼间的情绪流转非常到位。
-
-  
-
-这种高精度的神态捕捉与生成能力，若应用到具体产业，将极大拓展制作流程的想象空间。对于短剧市场而言，这意味着创意的可视化门槛被进一步降低。创作者可以利用技术手段，将抽象的剧本快速转化为情绪饱满的视觉素材，让好的故事不再受限于初期制作条件的简陋。
-
-  
-
-在影视制作前期，它能升级为更直观的 Previz（预演）工具，让导演在开机前就能看到带有情绪色彩的动态分镜，辅助艺术决策；而在动漫领域，这种技术或许能成为传统转描工艺的智能化升级，将真人表演的细腻韵律转化为特定画风的动画，助力跨次元创作更高效地落地。
-
-  
-
-接下来是「多视频参考」的整活时间，我们同时上传沈腾老师和怪盗基德的经典片段。
-
-  
-
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_gif/KmXPKA19gWibtx4RYLibJR5sfY68p6jG0tF4zkeH5uFV8H4RDTvBMjnWc4icVGHpJk7K12icof2UnsHib68FibewA0xg/640?wx_fmt=gif&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=6)
-
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_gif/KmXPKA19gWibtx4RYLibJR5sfY68p6jG0ticSL1iaALbLB5D4EFBzJJt2l5VhTiaffTScSfyictlpSdPKog6Ulib3HFEA/640?wx_fmt=gif&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=7)
-
-  
-
-让 Vidu 给人物换上沈腾老师的衣服并模仿他的动作，再配上怪盗基德的眼镜和帽子，看看喜剧之王和二次元男神会碰撞出什么火花：
-
-  
-
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/KmXPKA19gWibtx4RYLibJR5sfY68p6jG0tg3w4jiaA0hXXpico1KlBEC8UTmluGJ37gRgOWfqFkW0DWrykoPvBLBUg/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=8)
-
-  
-
-**输出：**  
-
-  
-
-<video data-v-6b6a00a5="" src="https://mpvideo.qpic.cn/0bc3mubaiaacfmah7xd3mruvezodarsqebaa.f10002.mp4?dis_k=ae9bc301f1079c67743e4b6b416116d1&amp;dis_t=1769588535&amp;play_scene=10120&amp;auth_info=Da+Y3eAGagVhprG7nDhUVXxrDWIaHDVbdyFpTwIxYFI9YS1xFWoAbBVbdi4QHUY=&amp;auth_key=9ab8252f91100c226b0e0581f922673e&amp;vid=wxv_4361687452038201348&amp;format_id=10002&amp;support_redirect=0&amp;mmversion=false" poster="http://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gWibtx4RYLibJR5sfY68p6jG0t4Gk7SIj2cBhLWahdT8BQepUP0ibcXltpDMH3Z5scXbEUKxibycJfoWbw/0?wx_fmt=jpeg&amp;wxfrom=16" webkit-playsinline="isiPhoneShowPlaysinline" playsinline="isiPhoneShowPlaysinline" preload="metadata" crossorigin="anonymous" controlslist="nodownload" class="video_fill" style="display: block; width: 661px; height: 372px;">您的浏览器不支持 video 标签</video>
-
-  
-
-效果肉眼可见的丝滑，手部动作完美复刻，镜片高光随着人物的头部晃动产生符合物理规律的动态反射，帽子边缘的遮挡关系也处理得严丝合缝，整体的服饰光影以及人物的神韵都维持了极高的统一度。
-
-  
-
-通过以上测试我们发现，这一次 AI 不仅「接住了戏」，更自带了百万级的特效光环。它不再只是机械地复制骨骼点位，而是展现了一种惊人的「表演-特效」同步率：在完美驾驭魔形女变身这种极高难度的流体与纹理形变的同时，它还能读懂参考视频中眉头微蹙、眼神流转等情绪代码。
-
-  
-
-对于创作者而言，这意味着你能同时驱动虚拟角色的皮囊与灵魂，跳过繁琐后期，真正实现「一人就是一支特效剧组」。
-
-  
-
-### 场景二：一键换纹理，万物皆可「换皮」
-
-###   
-
-前面展示了 AI 对动态表演的驾驭，接下来看看视频生成的另一个核心命题：质感。
-
-  
-
-纹理本质上决定了视频画面的「味道」。在 Vidu Q2 参考生 Pro 中，参考生视频中的材质纹理迁移，意味着 AI 已经不再停留于简单的像素模仿，而是开始真正习得了一门「质感语言」。
-
-  
-
-它不是将一张贴图生硬地包裹在物体表面，而是理解了光线如何在不同材质上折射、粗糙度如何影响视觉反馈。这种能力的涌现，让 AI 视频从「看起来像」进化到了「感觉是真的」。
-
-  
-
-先看官方如何处理复杂的纹理：将一个普通的杯子瞬间「烧制」成青花瓷。
-
-  
-
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_gif/KmXPKA19gWibtx4RYLibJR5sfY68p6jG0tiaJ6JdTtuSq2OGTjyWVklvrxKhN9gLTbrIw2MXKFHAAANRGLYfYuT4Q/640?wx_fmt=gif&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=9)
-
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_gif/KmXPKA19gWibtx4RYLibJR5sfY68p6jG0trZDUEUgG0Pjp2yg4ymJZDtrS9ZNo8ex8nibwdT1VE8gvQNpEqqsf04A/640?wx_fmt=gif&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=10)
-
-  
-
-可以看到，青花瓷特有的釉面反光与杯身曲面严丝合缝，毫无悬浮的「贴图感」，仿佛 AI 在数字世界里重新进行了一次物理建模。
-
-  
-
-切换整体风格也不在话下，比如瞬间变为粘土风：
-
-  
-
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_gif/KmXPKA19gWibtx4RYLibJR5sfY68p6jG0tFIkv4GrADtVL0B8fx4CzJxIaqsCgYFWlMFkbKwTyoh2mrvSBFyP40w/640?wx_fmt=gif&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=11)
-
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_gif/KmXPKA19gWibtx4RYLibJR5sfY68p6jG0tIRJpIyxJBwE4nibCkz8VhzJhXTz0as6PE9HlChfoHURyhjTRy6ibaBxg/640?wx_fmt=gif&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=12)
-
-  
-
-那如果是我随手在宜家拍的一只毛绒小狗呢，Vidu 能否打破次元壁，随意改变它的世界？
-
-  
-
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gWibtx4RYLibJR5sfY68p6jG0tOI5dibMf0D5tM2HKnblGibOsz0JombIwJF07pK9tPMmXUxbic5w5ibAEXw/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=13)
-
-  
-
-我们先把这张静态照片交给 Vidu，让它生成一段基础视频：
-
-  
-
-<video data-v-6b6a00a5="" src="https://mpvideo.qpic.cn/0bc3giafaaaakeacx7lzd5uvamwdkazaauaa.f10002.mp4?dis_k=0e9158bbca345fb5b2278073b73735d7&amp;dis_t=1769588535&amp;play_scene=10120&amp;auth_info=XKWrsMYGaQVn97G7z25fBy9uXWEZEDAPdXRvTlA9MlNsNyt0E2gDbBMKdi5DS00=&amp;auth_key=f6f3de14e1583e151d26844e96b2e751&amp;vid=wxv_4361687806976983048&amp;format_id=10002&amp;support_redirect=0&amp;mmversion=false" poster="http://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gWibtx4RYLibJR5sfY68p6jG0tdtHYxefMUe1orXRo3aSUrftZ5KNbrjTLMFBAibL7uR10nttFkc0zICQ/0?wx_fmt=jpeg&amp;wxfrom=16" webkit-playsinline="isiPhoneShowPlaysinline" playsinline="isiPhoneShowPlaysinline" preload="metadata" crossorigin="anonymous" controlslist="nodownload" class="video_fill" style="display: block; width: 661px; height: 372px;">您的浏览器不支持 video 标签</video>
-
-  
-
-可以看到，Vidu 不仅让小狗动了起来，更关键的是，它精准构建了画面的 3D 空间关系，不仅完美还原了周围环境，还保持了毛绒质感的稳定性。这为我们接下来的「魔改」打好了底子。
-
-  
-
-接着，我们尝试把小狗面前最大的碗换成蓝色的：
-
-  
-
-<video data-v-6b6a00a5="" src="https://mpvideo.qpic.cn/0bc3d4alwaaamuambdlzmnuvah6dxmpqboya.f10002.mp4?dis_k=690c860dc2e790b0e6b3162f61cc61f2&amp;dis_t=1769588535&amp;play_scene=10120&amp;auth_info=Car6ir8EbQdi8e2ynWNRVSluDjcaHGYPcHNrHlQ0NFY5Yy0kR20HbhYMKicRRkM=&amp;auth_key=3406d799154ffaa07e532f92481309cd&amp;vid=wxv_4361688198960381969&amp;format_id=10002&amp;support_redirect=0&amp;mmversion=false" poster="http://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gWibtx4RYLibJR5sfY68p6jG0tl5Tticn6dd7WuJzXwKnJABQSic9tRyBpm1vjJHcIYFgF25oHxicibcMAew/0?wx_fmt=jpeg&amp;wxfrom=16" webkit-playsinline="isiPhoneShowPlaysinline" playsinline="isiPhoneShowPlaysinline" preload="metadata" crossorigin="anonymous" controlslist="nodownload" class="video_fill" style="display: block; width: 661px; height: 372px;">您的浏览器不支持 video 标签</video>
-
-  
-
-效果可以说是非常惊艳。AI 真正理解了物体的 3D 结构和光影关系，让这种「换皮」不再是简单的滤镜叠加，而是物理层面的重构。
-
-  
-
-### 场景三：一键精准修改，完美主义的救星
-
-###   
-
-视频生成的构图和光影都很完美，偏偏主角没戴墨镜，或者背景里乱入了一个垃圾桶。
-
-  
-
-以前的解决办法？只能把 Prompt 改了又改，重跑 10 次模型，祈祷 AI 下一次能「蒙」对。Vidu Q2 参考生 Pro 这次更新的视频编辑功能直击痛点。
-
-  
-
-还是用前面宜家小狗的视频，我们试着要求删掉绿色的餐具，然后在蓝色碗里放一个苹果，看看效果怎么样：
-
-  
-
-<video data-v-6b6a00a5="" src="https://mpvideo.qpic.cn/0b2e7uaacaaamuahvq3zsfuvb7odah6qaaia.f10002.mp4?dis_k=251508c1bc25760a8246bddf63a17f33&amp;dis_t=1769588535&amp;play_scene=10120&amp;auth_info=CabrgtgFOlJj9eGzy2tfBnxvX2AYEmBdIS5vSFFnZgA5Yy8mFWxQOxcIJiZHTk0=&amp;auth_key=db73503a05b3d636a875696e18257eb9&amp;vid=wxv_4361688702763401218&amp;format_id=10002&amp;support_redirect=0&amp;mmversion=false" poster="http://mmbiz.qpic.cn/sz_mmbiz_jpg/KmXPKA19gWibtx4RYLibJR5sfY68p6jG0t8ibbEc4n6ribib4OzKwVKhclJbSeC9mRiaibEffOMSqrL50YURbnJdp5iaRg/0?wx_fmt=jpeg&amp;wxfrom=16" webkit-playsinline="isiPhoneShowPlaysinline" playsinline="isiPhoneShowPlaysinline" preload="metadata" crossorigin="anonymous" controlslist="nodownload" class="video_fill" style="display: block; width: 661px; height: 372px;">您的浏览器不支持 video 标签</video>
-
-  
-
-可以看到，绿色的餐具被完美消除，蓝色碗中增加了一个看起来非常新鲜的苹果。
-
-  
-
-而在官方演示中，这种能力表现得更为惊人：
-
-  
-
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_gif/KmXPKA19gWibtx4RYLibJR5sfY68p6jG0tFicQoGvLAPKn2G0s63KgcZZZPSANicSKfSClNBjCepno4MiaWC3L40ITA/640?wx_fmt=gif&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=14)
-
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_gif/KmXPKA19gWibtx4RYLibJR5sfY68p6jG0tqWZd2cVSKiaic220kCMagSibPvoIWjyaITiawia8wIEFDdGOb6FdvnWV65g/640?wx_fmt=gif&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=15)
-
-  
-
-手指和手掌的结构一直是 AI 视频生成的「阿喀琉斯之踵」。在这个案例中，Vidu 不仅完美抹去了手机，更「脑补」出了被手机遮挡的手指细节和掌纹。这种感觉，就像是把 Photoshop 里的「橡皮擦」和「内容识别填充」搬进了视频里。
-
-  
-
-当然，客观地说，在实测中我们也发现，面对极度复杂的画面或混乱背景时，AI 偶尔也会出现变形或修补痕迹，但相比以前「这也变了、那也歪了」的崩溃体验，现在的可用性已经实现了从 0 到 1 的质变。
-
-  
-
-对于必须抠细节的创作者来说，这不仅是技术的进步，更是直接省掉了无数次「重新抽卡」的垃圾时间。
-
-  
-
-## 结语
-
-##   
-
-小时候，我们都听过神笔马良的故事，那是人类最早关于「笔尖即现实」的浪漫幻想。而今，随着 AI 的进化，这个跨越千年的寓言正在我们指尖完成某种数字化的降临。
-
-  
-
-如果说过去两年的 AI 视频生成是一场凭运气拆盲盒的「概率游戏」，那么今天，这种充满随机性的浪漫正在退场。就像威尔·史密斯那碗意面终于变得优雅得体，技术正在从「野蛮生长」走向「颗粒度掌控」。
-
-  
-
-Vidu Q2 参考生 Pro 给出了一个很明确的信号：AI 视频的下半场，拼的不是运气，而是控制力。
-
-  
-
-当我们能够精准地拿捏情绪、增删元素，这支笔才真正算握在了创作者自己手中。这不仅仅是技术的进步，更是创作自由的回归：让机器服务于直觉，让每一个像素都听从大脑。
-
-  
-
-最后，马年快到了，给大家送上一个小「彩蛋」：让 Vidu Q2 参考生 Pro 请出《塞尔达传说》里的人马老师和林克，给大家拜个早年~
-
-  
-
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_gif/KmXPKA19gWibtx4RYLibJR5sfY68p6jG0tKzCjku67qbbGvthbsoFFCY9WZ6DblhCC4C4yCLSSQQ6QPF0EckLtNw/640?wx_fmt=gif&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=16)
-
-  
-
-🎁 **福利时刻：** 登录 Vidu.cn，输入邀请码：**JQZX**，注册即送 500 积分，开启你的「神笔」之旅！
-
-© THE END 
-
-转载请联系本公众号获得授权
-
-投稿或寻求报道：liyazhou@jiqizhixin.com---
-标题: "Thread by @johnAGI168"
-链接: "https://x.com/johnAGI168/status/2020370929755283887"
-作者: "[[@johnAGI168]]"
-创建时间: "2026-02-10T20:52:11+08:00"
-摘要: "文章内容一句话总结，翻译为中文"
-tags:
-  - "clippings"
-  - "AI"
-  - "Seedance 2.0"
-  - "文生视频"
-  - "武侠"
-  - "教程"
----
-**John** @johnAGI168 [2026-02-08](https://x.com/johnAGI168/status/2020370929755283887)
 
 不是啊😱这也太丝滑了吧，Seedance 2.0恐怖实力！
 
@@ -1238,62 +396,6 @@ tags:
 
 【画面技术要求】 电影级布光，色彩饱和但层次清晰，景深自然，画面稳定干净，整体呈现东方武侠的写意美感与空间张力。
 
-![](file-20260210205711978.png)
-
----
-
-**see-through** @Alexli2046 [2026-02-08](https://x.com/Alexli2046/status/2020436804797903271)
-
-没给它赵丽颖和林更新的照片做参考么？🤣
-
----
-
-**John** @johnAGI168 [2026-02-08](https://x.com/johnAGI168/status/2020440518266601702)
-
-没有哦，纯文生
-
----
-
-**MAXZ Ai** @maxweb00 [2026-02-08](https://x.com/maxweb00/status/2020466459919396921)
-
-我感觉，既梦2.0应该是喂了大量的国产武侠、仙侠客和动作片，所以实际过程 中很可能是调用动作库一样……根据需求给你适配。可以理解为可灵增强版的“动作控制”
-
-不然解释不了为什么短期之内进化到这种程度，当然这是一种挺好的思路
-
----
-
-**John** @johnAGI168 [2026-02-08](https://x.com/johnAGI168/status/2020469233969234232)
-
-应该是用抖音大量视频训练的
-
----
-
-**tong(蓝V互关）** @TOOBE775 [2026-02-09](https://x.com/TOOBE775/status/2020755350946038161)
-
-这效果这运镜，影视行业塌了。
-
----
-
-**MangoApps** @mangoappsinc
-
-Tired of Sharepoint complexity? Adoption is Low? Need access to your Intranet from Mobile? See how companies are replacing Sharepoint with MangoApps Intranet & Portal software. Book a personalized demo or start a trial today! https://mangoapps.com/?twclid=24a8qjfjh5lsjv9xvsfkvfncpz  
-厌倦了 SharePoint 的复杂性？采用率低？需要从移动端访问您的内联网吗？看看公司如何用 MangoApps 内联网和门户软件取代 Sharepoint。预订个性化试玩或立即开始试用！ https://mangoapps.com/?twclid=24a8qjfjh5lsjv9xvsfkvfncpz
-
-![Image](https://pbs.twimg.com/media/DUk2ycoVQAAV2Kj?format=jpg&name=large)---
-标题: "Thread by @johnAGI168"
-链接: "https://x.com/johnAGI168/status/2021217600122884274"
-作者: "[[@johnAGI168]]"
-创建时间: "2026-02-11T22:06:28+08:00"
-摘要: "文章展示了用户使用Seedance 2.0文生视频工具生成的一段15秒东方玄幻武侠风格特效视频，并详细描述了视频的分镜、角色、场景和特效设计。"
-tags:
-  - "clippings"
-  - "AI"
-  - "文生视频"
-  - "Seedance 2.0"
-  - "东方玄幻"
-  - "武侠特效"
----
-**John** @johnAGI168 [2026-02-10](https://x.com/johnAGI168/status/2021217600122884274)
 
 东方玄幻武侠电影级特效大片📺📺
 
@@ -1329,40 +431,6 @@ Seedance 2.0文生视频 prompt 👇
 
 【特效】红蓝两种能量瞬间对撞爆炸，产生巨大的环形冲击波，将周围的云海和山峰瞬间震碎。画面在能量爆发的极亮白光中结束。
 
-#seedance2
-![](file-20260211225421206.png)
-
----
-
-**Wish Today.CC** @senyiCS [2026-02-10](https://x.com/senyiCS/status/2021225888625447271)
-
-充值的话也只能15秒吗
-
----
-
-**John** @johnAGI168 [2026-02-10](https://x.com/johnAGI168/status/2021226083115204806)
-
-是的，最长 15 秒
-
----
-
-**ray** @rayidea [2026-02-11](https://x.com/rayidea/status/2021430452981240113)
-
-哈哈好家伙，玩的明明白白---
-标题: "Thread by @johnAGI168"
-链接: "https://x.com/johnAGI168/status/2021938129821663469"
-作者: "[[@johnAGI168]]"
-创建时间: "2026-02-12T21:35:23+08:00"
-摘要: "这是一条关于使用 Seedance 2.0 生成模仿中国式成功学演讲风格视频的推文，包含详细的视频提示词描述。"
-tags:
-  - "clippings"
-  - "AI"
-  - "Seedance2.0"
-  - "文生视频"
-  - "成功学"
-  - "产品"
----
-**John** @johnAGI168 [2026-02-12](https://x.com/johnAGI168/status/2021938129821663469)
 
 中国式成功学演讲，疯狂洗脑风，情绪炸裂💣  
   
@@ -1405,28 +473,7 @@ Seedance 2.0文生视频 prompt 👇
 台下观众：疯狂起立，鼓掌，甚至有人热泪盈眶。
 
 【台词/金句】：“今晚，让我们一起，改写命运！要想富，先脱裤（脱离舒适的裤子）！听懂掌声！！！”  
-  
-#Seedance2.0  
-#Seedance2 .0
 
-![](file-20260212214544952.png)
----
-标题: "Thread by @ponyodong"
-链接: "https://x.com/ponyodong/status/2021563794129031325"
-作者: "[[@ponyodong]]"
-创建时间: "2026-02-13T00:53:43+08:00"
-摘要: "本文展示了一篇关于使用即梦AI的Seedance2.0工具生成融合武术动作与烹饪场景的AI视频的推文，并分享了相关的提示词和用户反馈。"
-tags:
-  - "clippings"
-  - "AI"
-  - "AI视频生成"
-  - "即梦AI"
-  - "Seedance2.0"
-  - "提示词分享"
----
-**ponyo** @ponyodong 2026-02-08
-
-Seedance2.0中的生活美学  
 Seedance2.0 中国电影美学  
   
 生活即道场
@@ -1454,63 +501,7 @@ A beautiful Chinese woman named Deji Lamu, long black hair, wearing a traditiona
   
 tips:目前即梦内测中，可选择出镜中的数字人角色生成。  
 
-![](file-20260213101019980.png)
-  
-#Seedance2 #即梦AI #AIGC #AI视频生成 #人工智能
 
-> 2026-02-08
-> 
-> 实测即梦Seedance2.0：
-> 
-> 多镜头连贯、人物一致性拉满、画质清晰，从此小白也能拍电影级视频
-> 
-> #即梦ai #Seedance2 #AI视频实测 #AI漫剧
-
----
-
-**MarioTan** @TanShilong [2026-02-11](https://x.com/TanShilong/status/2021577630869254178)
-
-这个有食神那个味了！！
-
----
-
-**ponyo** @ponyodong [2026-02-11](https://x.com/ponyodong/status/2021578408501686745)
-
-谢谢亲爱的
-
----
-
-**Cheery** @cheery9998 [2026-02-12](https://x.com/cheery9998/status/2021744113041998192)
-
-好看的，功夫美食
-
----
-
-**ponyo** @ponyodong [2026-02-12](https://x.com/ponyodong/status/2021786374878507206)
-
-感谢一姐☺️
-
----
-
-**I am Matt** @iammattx [2026-02-12](https://x.com/iammattx/status/2021855939130011769)
-
-这是什么情况？
-
-![Image](https://pbs.twimg.com/media/HA8TPNCbsAAtHJb?format=png&name=large)---
-标题: "Thread by @johnAGI168"
-链接: "https://x.com/johnAGI168/status/2021577731826213121"
-作者: "[[@johnAGI168]]"
-创建时间: "2026-02-11T21:47:28+08:00"
-摘要: "文章主要展示了用户 John 在 X 平台上分享关于 AI 视频生成工具 Seedance 2.0 的测试体验和生成提示词，强调了其强大的电影级视频生成能力和无需提示的图像参考功能。"
-tags:
-  - "clippings"
-  - "AI"
-  - "视频生成"
-  - "Seedance 2.0"
-  - "赛博朋克"
-  - "电影质感"
----
-**John** @johnAGI168 2026-02-11
 
 Seedance 2.0全能参考回归！「觉醒·未来」  
   
@@ -1542,155 +533,6 @@ Seedance 2.0全能参考 prompt👇
   
 时长：10秒 | 风格：好莱坞顶级商业片 | 视觉冲击：极强
 
-![](file-20260211225421152.png)
-
-
-> 2026-02-11
-> 
-> Seedance 2.0 is back, and real-life image references are back 😄
-> 
-> Upload a photo and it automatically generates a version without any prompts！
-> 
-> The consistent cinematic feel is amazing!
-> 
-> #Seedance2  
-> Seedance 2.0 回归了，现实生活中的图像参考也回归了 😄
-> 
-> 上传照片，无需任何提示即可自动生成版本！
-> 
-> 始终如一的电影质感太棒了！
-> 
-> #种子舞 2
-> 
-> ![Image](https://pbs.twimg.com/media/HA4N8BAWAAEe9Cv?format=jpg&name=large)
-## 原文来源
-67 【别再找了！2分钟学会9种AI首尾帧实用玩法 - 无名NonameS | 小红书 - 你的生活兴趣社区】 😆 Pp4CFvaX5uadfd8 😆 https://www.xiaohongshu.com/discovery/item/6975db90000000001a02e339?source=webshare&xhsshare=pc_web&xsec_token=ABKfNQ2y4bwF4kBgV0BZ5nA-i2YYRRxv-vjEnqrmx8wq0=&xsec_source=pc_share
-
-## 核心内容
-
- #00:00[时刻]# Intro 
- #00:16[时刻]# 苹果广告 
- #00:25[时刻]# 何同学同款 
- #00:35[时刻]# 机械臂运镜
-  #00:53[时刻]# 希区柯克变焦 
-  #01:13[时刻]# 标题动画 
-  #01:28[时刻]# 创意运镜 
-  #01:39[时刻]# 降本增效
-  #02:02[时刻]# Outro
-
-## 实践效果
-
-### 苹果广告 
-prompt：
-
-图1:参考图，用json还原（或者实拍，替换背景）
-图2:参考图**人手消失，手机保持位置和角度不变，其他参考图保持一致性**
-首尾帧：
-手机从手中轻柔缓缓升起，呈现出放佛置身太空版的零重力漂浮感，在漂浮过程中，手机保持绝对固定角度和朝向，禁止发生任何旋转或翻转，仅做平滑，缓慢的向右侧位移，画面稳定流畅，具有电影质感
-
-![](file-20260210204142386.png)
-![](file-20260210204142364.png)
-![](file-20260210204142371.png)
-![](file-20260210204142391%201.png)
-
-
-### 何同学同款 
-
-效果：
-
-图1:
-图2:
-首尾帧视频：视角从右往左丝滑的平移运镜，在运镜过程中，手机的相机模组丝滑的发生变化，如水波一样散开变化
-![](file-20260210204142370.png)
-
-### 机械臂运镜
-
- prompt
-图1:
-图2:
-![](file-20260210204142366.png)
-
-### 希区柯克变焦
-
-效果：在镜头向前或向后移动（dolly）的同时，反向改变焦距（zoom），让主体大小几乎不变，但背景被强烈拉伸或压缩，产生空间塌陷/扩张的错觉——观众会本能地“被震一下”。
-
-首帧：
-Person holding smartphone, medium shot, background city street with natural depth, realistic lighting, stable composition
-人物手持智能手机，中景，背景是具有自然景深的城市街道，光线真实，构图稳定。
-
-尾帧：
-Same subject size, background city dramatically rushes forward and compresses, strong dolly zoom effect, cinematic tension, sense of power and control
-主体大小不变，背景城市画面戏剧性地向前推进并压缩，强烈的推拉镜头效果，营造出电影般的紧张感，以及力量和控制感。
-
-![](file-20260210204142388.png)
-
-
-
-### 标题动画
-
-字体：即梦找灵感做同款，生成背景绿幕（便于后期去掉背景）
-
-
-
-
-
-### 创意运镜 
-
-效果：
-首尾帧：摄像机视角像是穿越机fpv视角一样，缓慢的冲向人物，并来到人物的右侧方
-![](file-20260210204142391.png)
-
-![](file-20260210204142393.png)
-
-
-### 无人机运镜
-
-效果：在真实拍摄中，无人机运镜=  高空视角 + 大范围空间位移 + 强纵深变化
-
-![](file-20260210204142394.png)
-
-### Outro 延时摄影
-
-效果：「画面基本不动 + 时间线快速流逝的视觉线索」
-
-Cinematic timelapse effect, static camera, time passing rapidly, day to night transition, city lights gradually turning on, sky changing colors, smooth and natural lighting shift
-电影级延时摄影效果， 固定镜头， 时间快速流逝， 昼夜交替， 城市灯光逐渐亮起， 天空色彩变幻， 光线平滑自然过渡
-
-
-### remotion打字效果
-
-![](file-20260210204142365.png)![](file-20260210204142393%201.png)
-![](file-20260210204142394%201.png)
-
-Seedance 2.0 测试 01 
-我把 Nano Banana 和 MJ 做的故事板上传到新模型上，并要求做一个简短的战斗场景。 
-这是结果。
-![](app://c8bd30226d2cbe5759a657ef379a349ea445/Users/liminrong/Documents/Obsidian%20Vault/3-prompt/%E8%A7%86%E9%A2%91/assets/%E6%9C%AA%E5%91%BD%E5%90%8D/file-20260208173734012.png?1770543454016)
-
-
-WTF, I uploaded a screenshot from the One Piece manga and asked Seedance 2.0 to generate a video for me, and it actually worked! prompt： Video generated from reference text, with automatic coloring.  
-什么鬼，我上传了《海贼王》漫画的截图，让 Seedance 2.0 帮我生成视频，居然成功了！ 提示： 视频由参考文本生成，并自动着色。
-
-![](file-20260210204142761.png)
-
-![](file-20260210204142763.png)
-
-
----
-标题: "Thread by @johnAGI168"
-链接: "https://x.com/johnAGI168/status/2021928568272412985"
-作者: "[[@johnAGI168]]"
-创建时间: "2026-02-12T21:07:04+08:00"
-摘要: "文章介绍了使用Seedance 2.0文生视频技术，通过一个提示词生成未来主义汽车广告的创意脚本，展示了从地面拥堵到垂直起飞的完整分镜。"
-tags:
-  - "clippings"
-  - "AI"
-  - "文生视频"
-  - "广告创意"
-  - "Seedance 2.0"
-  - "品牌Y"
----
-**John** @johnAGI168 [2026-02-12](https://x.com/johnAGI168/status/2021928568272412985)
 
 🎬 品牌Y·未来已至（未来商业广告）
 
@@ -1734,26 +576,6 @@ Seedance 2.0文生视频prompt👇
 
 结尾定格：车身飞向巨大的满月，画面中心浮现银色金属立体Logo：“Y - Drive the Future”。
 
-#Seedance2.0
-
-![](file-20260212214544901.png)
----
-标题: "Thread by @johnAGI168"
-链接: "https://x.com/johnAGI168/status/2020687040853975223"
-作者: "[[@johnAGI168]]"
-创建时间: "2026-02-10T20:45:36+08:00"
-摘要: "用户 John 分享了一个使用 Seedance 2.0 文生视频工具生成的、模仿国产短剧风格的 15 秒视频，并附上了详细的生成提示词，引发了关于 AI 视频技术对短剧演员行业影响的讨论。"
-tags:
-  - "clippings"
-  - "AI"
-  - "文生视频"
-  - "Seedance 2.0"
-  - "短剧"
-  - "人工智能生成内容"
----
-**John** @johnAGI168 [2026-02-09](https://x.com/johnAGI168/status/2020687040853975223)
-
-卧槽😱给我看哭了😭妈耶
 
 Seedance 2.0纯文生视频，短剧演员危⚠️
 
@@ -1777,72 +599,6 @@ prompt👇
 女主看清手中之物的瞬间，瞳孔地震（极近特写），捂住嘴巴，防线崩溃。下一秒，男主猛地将她拉入怀中死死抱住，仿佛要揉进骨子里。镜头快速旋转环绕拍摄相拥的两人。
 【对白口型指导】女主埋头痛哭（无声/呜咽）。
 
-![](file-20260210204618383.png)
-#seedance2
-
----
-
-**ray** @rayidea [2026-02-09](https://x.com/rayidea/status/2020698490406604910)
-
-这个男演员好像就是短剧里边常见到的，卧槽，这是背刺演员？
-
----
-
-**John** @johnAGI168 [2026-02-09](https://x.com/johnAGI168/status/2020698793877098881)
-
-字节已经杀疯了，无视任何版权，各演员轮番上阵
-
----
-
-**Oberon** @jimail0218 [2026-02-09](https://x.com/jimail0218/status/2020722788303286368)
-
-請問你的prompt是用什麼產生的？謝謝
-
----
-
-**John** @johnAGI168 [2026-02-09](https://x.com/johnAGI168/status/2020838780878438776)
-
-Gemini，ChatGPT，Claude 都行啊
-
----
-
-**粗鄙的老孙** @WeiPing165915 [2026-02-09](https://x.com/WeiPing165915/status/2020759718491517321)
-
-这不都是抖音短剧里面的？你直接抖音呀？
-
----
-
-**John** @johnAGI168 [2026-02-09](https://x.com/johnAGI168/status/2020760571608494465)
-
-毋庸置疑，即梦Seedance 2.0目前站在世界之巅
-
-![Image](https://pbs.twimg.com/media/HAsu4aEXcAAh6gp?format=jpg&name=large)
-
----
-
-**Tinyfool** @tinyfool [2026-02-09](https://x.com/tinyfool/status/2020702673084055560)
-
-这表情确实超越很多短剧演员的塑料表情
-
----
-
-**John** @johnAGI168 [2026-02-09](https://x.com/johnAGI168/status/2020704080038166680)
-
-看哭了😭属于是---
-标题: "Thread by @johnAGI168"
-链接: "https://x.com/johnAGI168/status/2020688711172620665"
-作者: "[[@johnAGI168]]"
-创建时间: "2026-02-11T22:45:53+08:00"
-摘要: "这是一篇关于AI视频生成工具Seedance 2.0的推文，展示了用户使用文本提示生成“神豪爽剧”风格竖版短剧的示例。"
-tags:
-  - "clippings"
-  - "AI"
-  - "视频生成"
-  - "Seedance 2.0"
-  - "短剧"
-  - "文生视频"
----
-**John** @johnAGI168 [2026-02-09](https://x.com/johnAGI168/status/2020688711172620665)
 
 短剧行业这是要杀疯了呀！
 
@@ -1852,37 +608,6 @@ prompt👇
 
 【风格】国产神豪爽剧（Viral CEO Drama），竖屏构图（Portrait Mode），高饱和度滤镜，极致的面部特写，情绪大开大合。 【时长】15秒 【角色】被羞辱的新郎（穿着廉价西装，眼神隐忍不发）VS 刻薄丈母娘（满身珠宝，一脸嫌弃）。 \[00:00-00:05\] 镜头1：极致羞辱（Humiliation）。 豪华婚礼现场。丈母娘当着众人的面，将一纸“退婚书”狠狠摔在男主胸口，周围宾客哄堂大笑。 【动作】丈母娘手指戳着男主的额头。 【对白口型指导】“没车没房还想娶我女儿？拿着这一百块滚出去！” \[00:05-00:10\] 镜头2：风云突变（The Turn）。 男主突然冷笑一声，撕碎退婚书。此时，巨大的螺旋桨声（音效感）盖过全场，狂风吹乱了丈母娘的发型。 【动作】男主整理了一下衣领，气场瞬间变得霸气侧漏。 【对白口型指导】“这婚，可是你们要退的。” \[00:10-00:15\] 镜头3：神豪降临（The Reveal）。 大门被撞开，两排黑衣保镖冲进来，单膝跪地铺上红地毯。一位老管家颤抖着捧着一件黄袍（或至尊黑卡）跑到男主面前深深鞠躬。丈母娘吓得瘫坐在地上，瞳孔地震。 【对白口型指导】老管家喊：“恭迎龙王（少爷）归位！家族资产已解冻！”
 
-#seedance2
-![](file-20260211225421243.png)
----
-
-**Kevin SHI** @KevinSHIBJ [2026-02-09](https://x.com/KevinSHIBJ/status/2020798281056424396)
-
-我也做一个，same prompt。
-
----
-
-**True5G** @TrueMoveH
-
-在泰国使用 True dtac HAPPY 旅游电话卡，网络稳定不断线，畅享无限流量、通话和 WiFi。
-
-提前购买更划算！可在 WeChat、Klook、Fliggy、JD、Ctrip 购买。---
-标题: "Thread by @johnAGI168"
-链接: "https://x.com/johnAGI168/status/2020515830874636716"
-作者: "[[@johnAGI168]]"
-创建时间: "2026-02-12T21:36:22+08:00"
-摘要: "这是一篇关于用户 John 在 X 平台上分享使用纯文本生成视频功能（Seedance 2.0）的帖子，他发布了一段根据详细提示词生成的15秒赛车视频，并展示了相关功能更新和社区互动。"
-tags:
-  - "clippings"
-  - "AI"
-  - "文本转视频"
-  - "Seedance 2.0"
-  - "赛车电影"
-  - "社交媒体"
----
-**John** @johnAGI168 [2026-02-08](https://x.com/johnAGI168/status/2020515830874636716)
-
-Let's go! Points are burning, tests are ongoing.
 
 Seedance 2.0 prompt👇
 
@@ -1931,26 +656,6 @@ Seedance 2.0 提示 👇
 
 起跑灯变绿。两辆赛车在湿滑的沥青路面上完美同步加速。水花四溅，溅入镜头。运动模糊将体育场的灯光变成一道道长长的彩色光迹。
 
-#seedance2
-
-![](file-20260212214544621.png)
-
----
-
-**John** @johnAGI168 [2026-02-08](https://x.com/johnAGI168/status/2020516094763515970)
-
-Pure text-to-video, now English prompts are also supported  
-纯文本转视频功能，现在也支持英文提示。
-
----
-
-**Play Solana | PSG1** @playsolana
-
-PSG1隊將前往香港🇭🇰
-
----
-
-**John** @johnAGI168 [2026-02-08](https://x.com/johnAGI168/status/2020516941182476641)
 
 Speed & Passion  
 速度与激情
@@ -2001,29 +706,6 @@ prompt👇
 
 【技术参数】：8k超高清，电影级调色（青橙色调 Teal & Orange），极高的动态范围（HDR），复杂的粒子特效渲染。
 
-![](file-20260210205712075.png)
-
----
-
-**MarioTan** @TanShilong [2026-02-08](https://x.com/TanShilong/status/2020523109376462884)
-
-https://aipromptfill.com/#/share?share=33\_ncXcS…
-
-已经做成填空版本的提示词模版啦，老哥真强---
-标题: "Thread by @johnAGI168"
-链接: "https://x.com/johnAGI168/status/2021199692650946709"
-作者: "[[@johnAGI168]]"
-创建时间: "2026-02-10T20:58:28+08:00"
-摘要: "本文展示了两个用于AI视频生成工具Seedance 2.0的详细提示词（prompt），分别模拟了抖音激情带货直播风格和未来科技感电影风格，用于生成特定场景和效果的高质量短视频。"
-tags:
-  - "clippings"
-  - "AI"
-  - "视频生成"
-  - "Seedance 2.0"
-  - "提示词工程"
-  - "内容创作"
----
-**John** @johnAGI168 [2026-02-10](https://x.com/johnAGI168/status/2021199692650946709)
 
 抖音带货视频比带货主播还厉害🔍🔍🔍
 
@@ -2063,30 +745,7 @@ Seedance 2.0 文生视频 prompt 👇
 
 【语速极快】：“全网首发！仅限前100名免费试用！链接就在左下角！手慢无！给我冲！3、2、1，上链接！”
 
-![](file-20260210210221695.png)
 
-#seedance2---
-标题: "Thread by @johnAGI168"
-链接: "https://x.com/johnAGI168/status/2021489421338448045"
-作者: "[[@johnAGI168]]"
-创建时间: "2026-02-11T21:51:03+08:00"
-摘要: "文章内容一句话总结，翻译为中文"
-tags:
-  - "clippings"
-  - "AI"
-  - "文生视频"
-  - "Seedance 2.0"
-  - "社交媒体"
-  - "产品"
----
-**John** @johnAGI168 [2026-02-11](https://x.com/johnAGI168/status/2021489421338448045)
-
-东北甜妹爱了爱了💗💗💗  
-  
-以后任何视频都不能相信了⚠️  
-  
-Seedance 2.0目前测试下来能力没有边界，可能只有想象力是对它唯一的限制了🐎  
-  
 任何天马行空的想象都能化为现实的时代到来😱  
   
 Seedance 2.0文生视频 prompt 👇  
@@ -2129,24 +788,6 @@ Seedance 2.0文生视频 prompt 👇
 
 【特效】满屏的虚拟礼物特效（跑车、游艇）在甜妹周围炸开，画面定格在三人最酷的Pose上。  
   
-#Seedance2 2.0  
-#Seedance2 2.0---
-标题: "Thread by @johnAGI168"
-链接: "https://x.com/johnAGI168/status/2020696605855302062"
-作者: "[[@johnAGI168]]"
-创建时间: "2026-02-12T21:29:35+08:00"
-摘要: "文章展示了用户使用Seedance 2.0文生视频工具，通过详细的文本提示生成了一段模仿国产爆款短剧风格的AI视频，并附上了完整的创作提示和用户互动。"
-tags:
-  - "clippings"
-  - "AI"
-  - "文生视频"
-  - "Seedance 2.0"
-  - "短剧"
-  - "提示工程"
----
-**John** @johnAGI168 [2026-02-09](https://x.com/johnAGI168/status/2020696605855302062)
-
-撕心裂肺啊😭这是AI能够生成的吗？
 
 Seedance 2.0文生视频国产爆款短剧📺
 
@@ -2156,59 +797,6 @@ prompt👇
 
 【风格】国产爆款短剧（Viral Short Drama），竖屏构图（9:16 Portrait Ratio），极致虐心（Melodramatic），雨夜街头，高对比度霓虹光影，手持摄影晃动感。 【时长】15秒 【角色】卑微男主（浑身湿透，头发凌乱，欲哭无泪）VS 决绝女主“燕子”（妆容精致，冷漠脸）。 \[00:00-00:05\] 镜头1：决绝登车（The Departure）。 暴雨夜的繁华街头。一辆黑色劳斯莱斯（或迈克尔巴赫）停在路边，后座车门打开。女主冷漠地甩开男主拉扯的手，头也不回地坐进豪车后排。男主扒着车窗哭喊，被保镖无情拉开。车门重重关上。 【男主状态】满脸泪水与雨水交织，眼神绝望。 \[00:05-00:10\] 镜头2：撕心裂肺的追逐（The Chase & The Meme Line）。 豪车起步加速驶离。男主不顾一切地在后面狂奔追赶，踉踉跄跄，鞋子都跑掉一只。镜头紧跟男主脸部特写，疯狂晃动。他一边跑一边冲着远去的车尾灯嘶吼。 【核心台词口型指导】男主崩溃大喊：“燕子！燕子！你不要走！你走了我可怎么办啊！”（表情极其痛苦扭曲）。 \[00:10-00:15\] 镜头3：绝望跪地（The Despair）。 豪车的尾灯消失在街角尽头。男主体力不支，重重地跪倒在湿漉漉的柏油马路上，对着空荡荡的街道捶胸顿足，嚎啕大哭。镜头慢慢拉高俯拍，显得他无比渺小和凄凉。雨水不断打在他身上。
 
-#seedance2
-![](file-20260212214544927.png)
----
-
-**cysca** @cyscays [2026-02-09](https://x.com/cyscays/status/2020702309563670531)
-
-amazing I loved !! I'm shocked  
-太棒了，我超喜欢！！我简直震惊了！
-
----
-
-**John** @johnAGI168 [2026-02-09](https://x.com/johnAGI168/status/2020703826748297257)
-
-🫰🫰🫰
-
----
-
-**cysca** @cyscays [2026-02-09](https://x.com/cyscays/status/2020704241325908469)
-
-please generate this in seedance 2:
-
-Rick Sanchez walking, then a muscular alien appears who says:"You came to get Morty huh?"
-
-Rick Sanchez diz: "Yes, where is he?"
-
-Alien says "First, fight" And advance
-
-Rick just kicks the alien's knee and he falls to the ground screaming  
-请在 Seedance 2 中生成此文件：
-
-瑞克·桑切斯走着，这时一个肌肉发达的外星人出现，说道：“你是来抓莫蒂的，嗯？”
-
-Rick Sanchez 问道：“是的，他在哪儿？”
-
-外星人说：“首先，战斗！”然后前进
-
-瑞克一脚踢在外星人的膝盖上，外星人惨叫着倒在地上。
-
-![Image](https://pbs.twimg.com/media/HAr7zE0XgAAKDd0?format=jpg&name=large)---
-标题: "Thread by @johnAGI168"
-链接: "https://x.com/johnAGI168/status/2021252179923787806"
-作者: "[[@johnAGI168]]"
-创建时间: "2026-02-11T22:07:49+08:00"
-摘要: "一篇关于AI生成视频的推文，展示了使用详细提示词生成的台湾女生第一人称视角Vlog，并附有用户对其真实性和口音的讨论。"
-tags:
-  - "clippings"
-  - "AI"
-  - "文生视频"
-  - "Seedance 2.0"
-  - "社交媒体讨论"
-  - "数字人"
----
-**John** @johnAGI168 [2026-02-10](https://x.com/johnAGI168/status/2021252179923787806)
 
 POV视角Vlog视频 📺
 
@@ -2249,109 +837,6 @@ Seedance 2.0 文生视频 prompt 👇
 动作：她先把霜淇淋举到镜头前（喂你），然后自己快速舔了一口，鼻尖不小心沾到一点冰淇淋。她对着镜头傻笑。
 
 【台词/口型】（调皮音）：“呐，第一口先给你吃。快点，要融化了啦！嘻嘻，今天的约会算你及格！”
-![](file-20260211225421308.png)
----
-
-**jerry** @mxl984 [2026-02-10](https://x.com/mxl984/status/2021324431856205903)
-
-![Image](https://pbs.twimg.com/media/HA0v2o3bgAAHooK?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HA0v2o3aUAA5RrO?format=jpg&name=large)
-
----
-
-**Maxsos** @maxsos100 [2026-02-11](https://x.com/maxsos100/status/2021417684857126982)
-
-光線真的絕了，通常不會用"絕了"，改"超漂亮"會更好 哈哈
-
----
-
-**sophyape** @sophyape [2026-02-10](https://x.com/sophyape/status/2021350646923002218)
-
-唯一的问题，女主太老了吧？我觉得不像约会的，像骗婚的…
-
----
-
-**前程锦绣** @kptcl19710301 [2026-02-11](https://x.com/kptcl19710301/status/2021409006934425654)
-
-没看出来就去看脑科啦 这视频人物脸型的边沿怪怪的
-
----
-
-**DX | Video Editor** @xiaoxie\_art [2026-02-10](https://x.com/xiaoxie_art/status/2021309070175539512)
-
-我天，太厉害了吧
-
----
-
-**Rong Yan** @AnAuTCat [2026-02-11](https://x.com/AnAuTCat/status/2021401514573693073)
-
-正在找这个做个数字人 👏
-
----
-
-**Mayfourth1911** @mayfourth1911 [2026-02-10](https://x.com/mayfourth1911/status/2021310071523725490)
-
-厲害很可以
-
----
-
-**hi** @Xiaomi21822277 [2026-02-11](https://x.com/Xiaomi21822277/status/2021389457493221700)
-
-b站有个做末世生存的也很真
-
----
-
-**Min-Chin Hsiao** @MinChinHsiao1 [2026-02-10](https://x.com/MinChinHsiao1/status/2021308090289635550)
-
-很地道的台灣口音哦。哇靠，真的看不出來。我都想跟她約會了。哈哈哈
-
----
-
-**laughing table** @i\_fix\_npd [2026-02-10](https://x.com/i_fix_npd/status/2021315813102207191)
-
-调色好假
-
----
-
-**BCoffee** @BCoffee1010 [2026-02-11](https://x.com/BCoffee1010/status/2021510229100577249)
-
-这就是AI味，鼓吹逼真的、看不出来的纯属眼瞎。
-
----
-
-**makabaka** @mkbkreal [2026-02-11](https://x.com/mkbkreal/status/2021425865171796322)
-
-相对比较真实，但是能很明显的看出来是AI
-
----
-
-**xsx4** @accadexia [2026-02-11](https://x.com/accadexia/status/2021518343891714523)
-
-长得像Mia
-用的我们公司一个武侠风的IP形象，随手写的提示词生成了15S的一段武侠打斗视频，从分镜、动作到声音都没得说。 这些之前都需要各个AI视频模型间抽卡，再加后期剪辑完成，技术的迭代太快了。 参考图和提示词
-![](file-20260210204143477.png)
-
-
-（2/2）视频提示词： 这是一段酒馆武打戏的开头和结尾的画面，请基于这两个场景，生成一段流畅的黑衣女子与几个刺客打斗的画面，需要运用到分镜和不同视角切换，让整个画面更有节奏感和电影感
-![](file-20260210204143479.png)
-![](file-20260210204143480.png)
-
-
-
----
-标题: "Thread by @johnAGI168"
-链接: "https://x.com/johnAGI168/status/2020415877993156966"
-作者: "[[@johnAGI168]]"
-创建时间: "2026-02-08T17:30:02+08:00"
-摘要: "文章展示了用户使用Seedance 2.0视频生成工具，通过详细的文本提示创作出具有90年代香港文艺片风格视频的过程。"
-tags:
-  - "clippings"
-  - "AI"
-  - "视频生成"
-  - "Seedance 2.0"
-  - "王家卫电影风格"
-  - "文生视频"
----
-**John** @johnAGI168 [2026-02-08](https://x.com/johnAGI168/status/2020415877993156966)
 
 王家卫电影风格😄
 
@@ -2396,23 +881,6 @@ Seedance 2.0太好玩了，文生视频prompt👇
 环境：背景是流动的城市车灯，形成拉长的光轨。
 
 【技术参数】：模拟手持摄影（Handheld Camera），浅景深，色彩偏移，情感浓郁。
-
-![](file-20260210204143436.png)
----
-标题: "Thread by @johnAGI168"
-链接: "https://x.com/johnAGI168/status/2021818021354848258"
-作者: "[[@johnAGI168]]"
-创建时间: "2026-02-12T20:35:29+08:00"
-摘要: "本文展示了一个使用AI视频生成工具（Seedance 2.0）创作的、以“现代田园美学”为主题的治愈系短片，并详细分享了其创作提示词（prompt）。"
-tags:
-  - "clippings"
-  - "AI"
-  - "文生视频"
-  - "Seedance 2.0"
-  - "现代田园美学"
-  - "短视频创作"
----
-**John** @johnAGI168 [2026-02-12](https://x.com/johnAGI168/status/2021818021354848258)
 
 现代田园美学🎨  
   
@@ -2460,41 +928,6 @@ Seedance 2.0没有完不成的任务，什么风格都完美驾驭！
 
 氛围：蒸汽在逆光中缓缓升腾，画面安静得仿佛能听到风声，展现出一种现代人向往的极致松弛感。  
   
-#Seedance2.0  
-#Seedance2 .0
-![](file-20260212210131385.png)
-
----
-
-**百里牛古法编程** @oxcode\_ [2026-02-12](https://x.com/oxcode_/status/2021835829887557873)
-
-赛博李子柒，出山了
-
----
-
-**短线龙股** @dxlg898 [2026-02-12](https://x.com/dxlg898/status/2021878398377943201)
-
-使用grok免费版做了一个，但需要出抽卡
-
----
-
-**蜂鸟VPN加速器** @FengNiao\_VPN2
-
-五年庆典新老用户1元/月，一键连接120多个国家，稳定不卡顿，隐私无忧。---
-标题: "Thread by @johnAGI168"
-链接: "https://x.com/johnAGI168/status/2021610292979876208"
-作者: "[[@johnAGI168]]"
-创建时间: "2026-02-12T21:04:28+08:00"
-摘要: "文章讨论了AI视频生成模型Seedance 2.0在生成《鬼灭之刃》风格内容时引发的关于其使用抖音/TikTok海量数据可能带来的版权争议。"
-tags:
-  - "clippings"
-  - "AI"
-  - "版权争议"
-  - "Seedance 2.0"
-  - "字节跳动"
-  - "视频生成"
----
-**John** @johnAGI168 [2026-02-11](https://x.com/johnAGI168/status/2021610292979876208)
 
 Seedance 2.0这个模型太恐怖了😱  
   
@@ -2540,114 +973,7 @@ prompt👇
 动作：两把刀在画面中心猛烈碰撞。
 
 特效奇观：蓝色的水龙与金色的雷电瞬间炸开，形成一个巨大的水雷能量风暴向四周扩散。周围的大树被能量波拦腰震断，泥水和光芒遮蔽了镜头。画面在极致炫目的蓝黄白光中结束。  
-  
-#Seedance2 2.0  
-#Seedance2 2.0
-![](file-20260212210538274.png)
 
----
-
-**kennico.sq** @kennicosq [2026-02-12](https://x.com/kennicosq/status/2021877915701686355)
-
-Quality aside (which is wild), the copyright convo is the most interesting part. ByteDance has endless Douyin/TikTok data—does that make Seedance 2.0 a legal time bomb or just the new normal in AI? Thoughts?  
-抛开质量不谈（质量确实惊人），版权问题才是​​最有趣的部分。字节跳动掌握着海量的抖音/TikTok 数据——这会让 Seedance 2.0 成为一颗法律定时炸弹，还是人工智能领域的新常态？大家怎么看？
-
----
-
-**John** @johnAGI168 [2026-02-12](https://x.com/johnAGI168/status/2021890971567304726)
-
-Byte ignores any copyright, let you upload videos to the Douyin platform.😂  
-Byte 无视任何版权问题，允许您上传视频到抖音平台。 😂
-
----
-
-**東遊亭** @shimonoshin22 [2026-02-12](https://x.com/shimonoshin22/status/2021899323727036502)
-
-缺少对版权方最基本的尊重🤣
-
----
-
-**Stanley H** @StanleyH457650 [2026-02-12](https://x.com/StanleyH457650/status/2021896397948321848)
-
-等追殺版權問題開始的時候就精彩了
-
-讓子彈飛一會兒
-
----
-
-**Rong Yan** @AnAuTCat [2026-02-12](https://x.com/AnAuTCat/status/2021763873049821633)
-
-给喂一点动作视频好点，打斗还是有点僵硬
-
----
-
-**無聊** @zhychn929840970 [2026-02-12](https://x.com/zhychn929840970/status/2021912968641032673)
-
-以後廉價動畫可能要完全AI化了
-
----
-
-**iaokun gxg** @GxgIaokun [2026-02-12](https://x.com/GxgIaokun/status/2021894109141840156)
-
-但这生成的并不是真人漫改吧？
-
----
-
-**Amazing Xiangyang** @XICC2024 [2026-02-12](https://x.com/XICC2024/status/2021788670207111371)
-
-【seedance2.0】鬼灭之刃VS原神 #DemonSlayer：#Tanjirou VS Genshin impact #RaidenShogun.This is a video created with Seedance2.0 . #鬼滅の刃 #原神![](https://abs.twimg.com/hashflags/BF-15225_Genshin_Impact_Hashmoji_setup_2026_Kuuhenki/BF-15225_Genshin_Impact_Hashmoji_setup_2026_Kuuhenki.png)📷 #GenshinImpact![](https://abs.twimg.com/hashflags/BF-15225_Genshin_Impact_Hashmoji_setup_2026_Kuuhenki/BF-15225_Genshin_Impact_Hashmoji_setup_2026_Kuuhenki.png) #雷電将軍 #竈門炭治郎 #seedance2 #鬼灭之刃 #DemonSlayer @johnAGI168
-
-@qhgy
-
-@AngryTomtweets
-
-@linwanwan823
-
-@QingQ77  
-【seedance2.0】鬼灭之刃 VS 原神 #DemonSlayer：#炭治郎 VS 原神冲击#RaidenShogun。这是用 Seedance2.0 制作的视频。 #鬼灭之刃 #原神 ![](https://abs.twimg.com/hashflags/BF-15225_Genshin_Impact_Hashmoji_setup_2026_Kuuhenki/BF-15225_Genshin_Impact_Hashmoji_setup_2026_Kuuhenki.png) 📷 #GenshinImpact ![](https://abs.twimg.com/hashflags/BF-15225_Genshin_Impact_Hashmoji_setup_2026_Kuuhenki/BF-15225_Genshin_Impact_Hashmoji_setup_2026_Kuuhenki.png) #雷电将军 #灶门炭治郎 #seedance2 #鬼灭之刃 #DemonSlayer @johnAGI168
-
-@qhgy
-
-@AngryTomtweets
-
-@linwanwan823
-
-@QingQ77
-
-> 2026-02-10
-> 
-> 【seedance2.0】鬼灭之刃VS原神 #DemonSlayer：#Tanjirou VS Genshin impact #RaidenShogun.This is a video created with Seedance2.0 . #鬼滅の刃 #原神![](https://abs.twimg.com/hashflags/BF-15225_Genshin_Impact_Hashmoji_setup_2026_Kuuhenki/BF-15225_Genshin_Impact_Hashmoji_setup_2026_Kuuhenki.png)📷 #GenshinImpact![](https://abs.twimg.com/hashflags/BF-15225_Genshin_Impact_Hashmoji_setup_2026_Kuuhenki/BF-15225_Genshin_Impact_Hashmoji_setup_2026_Kuuhenki.png) #雷電将軍 #竈門炭治郎 #seedance2 #鬼灭之刃 #DemonSlayer @johnAGI168
-> 
-> @qhgy
-> 
-> @AngryTomtweets
-> 
-> @linwanwan823
-> 
-> @QingQ77  
-> 【seedance2.0】鬼灭之刃 VS 原神 #DemonSlayer：#炭治郎 VS 原神冲击#RaidenShogun。这是用 Seedance2.0 制作的视频。 #鬼灭之刃 #原神 ![](https://abs.twimg.com/hashflags/BF-15225_Genshin_Impact_Hashmoji_setup_2026_Kuuhenki/BF-15225_Genshin_Impact_Hashmoji_setup_2026_Kuuhenki.png) 📷 #GenshinImpact ![](https://abs.twimg.com/hashflags/BF-15225_Genshin_Impact_Hashmoji_setup_2026_Kuuhenki/BF-15225_Genshin_Impact_Hashmoji_setup_2026_Kuuhenki.png) #雷电将军 #灶门炭治郎 #seedance2 #鬼灭之刃 #DemonSlayer @johnAGI168
-> 
-> @qhgy
-> 
-> @AngryTomtweets
-> 
-> @linwanwan823
-> 
-> @QingQ77---
-标题: "Thread by @johnAGI168"
-链接: "https://x.com/johnAGI168/status/2021786934536740871"
-作者: "[[@johnAGI168]]"
-创建时间: "2026-02-12T21:03:30+08:00"
-摘要: "用户John分享了使用Seedance 2.0模型生成的一段15秒真人特效视频，其提示词旨在创作好莱坞真人特效风格的《鬼灭之刃》呼吸法对决场景，但模型输出结果却更接近动漫原著风格，引发了关于AI文生视频模型能力与预期差异的讨论。"
-tags:
-  - "clippings"
-  - "AI"
-  - "文生视频"
-  - "Seedance 2.0"
-  - "鬼灭之刃"
-  - "特效制作"
----
-**John** @johnAGI168 2026-02-11
 
 真人版鬼灭之刃超级炫酷特效版😮
 
@@ -2688,130 +1014,12 @@ Seedance 2.0谁用谁知道到底有多疯狂😱
 特效：没有漫画线条，只有\*\*真实的物理粒子爆炸\*\*。大量的水蒸气、泥浆、被震断的树枝和耀眼的电火花在空中四散飞溅。冲击波将两人脚下的积水震起一圈圈真实的涟漪。画面极具重量感和破坏力。
 
 
-![](file-20260212210538341.png)
-
-
-#Seedance2.0
-
-> 2026-02-11
-> 
-> Seedance 2.0这个模型太恐怖了😱
-> 
-> 我甚至没有提鬼灭之刃任何提示词📚
-> 
-> 这个文生视频的结果👇
-> 
-> 我提示词真人版居然直接给我动漫版原著一样OMG
-> 
-> prompt👇
-> 
-> 真人漫改·呼吸法决战（15秒·超燃特效版）
-> 
-> 【核心看点】：水之呼吸（蓝色水龙） VS 雷之呼吸（金色闪电），真人极速对决。
-
----
-
-**Khalil Underwood** @RealKhalilU [2026-02-12](https://x.com/RealKhalilU/status/2021885090729717895)
-
-Tanjiro ugly as hell tho lmao my goat look retarded  
-炭治郎丑爆了哈哈哈哈，我的山羊看起来像个傻子
-
----
-
-**John** @johnAGI168 [2026-02-12](https://x.com/johnAGI168/status/2021922216254877733)
-
-I think it's pretty cool!  
-我觉得这很酷！
-
----
-
-**Dheepan Ratnam** @Dheepanratnam [2026-02-12](https://x.com/Dheepanratnam/status/2021802477859803382)
-
-Awesome work john  
-约翰，干得漂亮！
-
----
-
-**John** @johnAGI168 [2026-02-12](https://x.com/johnAGI168/status/2021814485833384002)
-
-Thank you 🙏  
-谢谢 🙏
-
----
-
-**Khalil Underwood** @RealKhalilU [2026-02-12](https://x.com/RealKhalilU/status/2021884921250525460)
-
-Oh shit  
-妈的---
-标题: "Thread by @johnAGI168"
-链接: "https://x.com/johnAGI168/status/2020757470126162115"
-作者: "[[@johnAGI168]]"
-创建时间: "2026-02-12T21:27:13+08:00"
-摘要: "这是一段关于用户讨论AI视频生成工具Seedance 2.0的社交媒体对话，其中包含一个详细的东方仙侠风格视频提示词。"
-tags:
-  - "clippings"
-  - "AI"
-  - "Seedance 2.0"
-  - "文生视频"
-  - "提示词工程"
-  - "社交媒体"
----
-**John** @johnAGI168 [2026-02-09](https://x.com/johnAGI168/status/2020757470126162115)
-
 仙女下凡🧚‍♀️东方古典仙侠美学
 
 Seedance 2.0文生视频 prompt 👇
 
 【风格】东方古典仙侠美学，唯美主义，电影级质感，流体布料模拟，发光粒子特效，梦幻光影。 【时长】15秒 【主角】绝美仙女，身着多层素白霓裳羽衣，超长飘带。 \[00:00-00:05\] 镜头1：史诗感大远景（Epic Wide Shot）。 地点是云海之上的悬空仙岛古台。仙女伫立，背后是万丈霞光（丁达尔效应）。重点在于她身上无数条长长的丝绸飘带在风中极其柔顺地舞动，如水波纹般铺满画面，展现极致的布料飘逸感。 \[00:05-00:10\] 镜头2：慢动作中景（Slow-motion Medium Shot）。 仙女开始跳古典“惊鸿舞”。她腾空而起（反重力轻功感），旋转甩出宽大的水袖。镜头聚焦于丝绸袖子在空中绽放的形态，以及她优雅的肢体语言。 \[00:10-00:15\] 镜头3：特写与环境交互（Close-up & Interaction）。 镜头推进至面部特写。她轻启朱唇开始吟唱（自然的歌唱口型）。随着歌声，周围无数发光的粉色花瓣凭空浮现，围绕她形成一个绚烂的粒子风暴漩涡，她的眼神充满神性光辉。
 
-![](file-20260212214544873.png)
-
-
----
-
-**cysca** @cyscays [2026-02-09](https://x.com/cyscays/status/2020759804000575529)
-
-Sorry to abuse you, but do you know if Seedance 2 generates videos in Brazilian Portuguese? The Kling 3 unfortunately doesn't have  
-不好意思打扰一下，请问您知道 Seedance 2 能生成巴西葡萄牙语的视频吗？Kling 3 很遗憾没有这个功能。
-
----
-
-**John** @johnAGI168 [2026-02-09](https://x.com/johnAGI168/status/2020760827498832087)
-
-You can write a prompt word for me to test out  
-你可以给我一个提示词，让我测试一下。
-
----
-
-**VJisung** @VJisung [2026-02-09](https://x.com/VJisung/status/2020870977513570551)
-
-This is made an image to video or text to video friend---
-标题: "Thread by @johnAGI168"
-链接: "https://x.com/johnAGI168/status/2020336821012476301"
-作者: "[[@johnAGI168]]"
-创建时间: "2026-02-10T20:54:50+08:00"
-摘要: "John 分享了使用 Seedance 2.0 生成武侠风格视频的详细提示词，并讨论了使用 Gemini 3.0 Pro 来撰写提示词的建议。"
-tags:
-  - "clippings"
-  - "AI"
-  - "视频生成"
-  - "提示词工程"
-  - "Seedance 2.0"
-  - "Gemini 3.0 Pro"
----
-**John** @johnAGI168 [2026-02-08](https://x.com/johnAGI168/status/2020336711381795058)
-
-太恐怖了😱
-
-人人都是导演的时代正式开启🔛
-
-Seedance 2.0堪称视频版的Nanobananapro时刻！
-
-纯文生prompt👇
-
----
-
-**John** @johnAGI168 [2026-02-08](https://x.com/johnAGI168/status/2020336821012476301)
 
 prompt：【导演风格】：胡金铨 (King Hu) 风格，武侠电影美学，70年代胶片质感，京剧身段，禅意，留白。
 
@@ -2843,35 +1051,6 @@ prompt：【导演风格】：胡金铨 (King Hu) 风格，武侠电影美学，
 
 【技术参数】：高对比度，低饱和度，老电影噪点，东方极简主义美学。
 
-![](file-20260210205711944.png)
-
----
-
-**awesome\_visuals** @awesome\_visuals [2026-02-08](https://x.com/awesome_visuals/status/2020549811406094736)
-
-what did you use for the prompt generation, is it best to use an agent/gpt to create the few second cut scenes for seedance 2?  
-你用什么来生成提示？用代理/GPT 来制作《种子 2》的几个第二秒过场动画最好吗？
-
----
-
-**John** @johnAGI168 [2026-02-08](https://x.com/johnAGI168/status/2020550938356789582)
-
-I feel that using Gemini3.0pro to write prompts will be better.  
-我觉得用 Gemini3.0pro 来写提示词会更好。---
-标题: "Thread by @johnAGI168"
-链接: "https://x.com/johnAGI168/status/2021125715324752246"
-作者: "[[@johnAGI168]]"
-创建时间: "2026-02-10T20:26:15+08:00"
-摘要: "文章内容是关于用户John分享一个用于Seedance 2.0视频生成模型的详细提示词，描述了一个史诗级冰火对决场景，并附带相关讨论。"
-tags:
-  - "clippings"
-  - "AI"
-  - "视频生成"
-  - "提示词工程"
-  - "Seedance 2.0"
-  - "特效"
----
-**John** @johnAGI168 [2026-02-10](https://x.com/johnAGI168/status/2021125715324752246)
 
 冰与火的对决 🧊🔥
 
@@ -2892,59 +1071,6 @@ Seedance 2.0 文生视频 prompt👇
 \[00:05-00:10\] 镜头2：冰火近身格斗（Intense CQC Combat）。 极速快剪（Rapid Action Cuts）。两人展开激烈的近身肉搏。 【动作设计】寒冰大将手中瞬间凝聚出一把巨大的\*\*寒冰军刀（Ice Saber）\*\*，高速挥砍。熔岩大将用元素化的\*\*岩浆铁拳（Magma Fist）\*\*硬格挡。 【物理反馈】冰刀砍在岩浆拳上，瞬间汽化成大量高压蒸汽，同时伴随着冰块碎裂飞溅和岩浆滴落的滋滋声。每一次碰撞都引发小范围的蒸汽爆炸。
 
 \[00:10-00:15\] 镜头3：宿命的绝招对轰（The Final Clash）。 大远景/震撼级破坏。两人拉开距离，同时释放大招。 【特效奇观】一条巨大的、咆哮的\*\*岩浆冥狗（熔岩巨犬形态）\*\*冲向对方；对面则是一只巨大的、由无数冰块组成的\*\*极寒冰鸟（暴风雪形态）\*\*迎面撞上。 【结尾】两者在画面中心相撞，红色的极致高温与蓝白色的绝对零度对冲。瞬间产生了一个连接天地的超级蒸汽蘑菇云，巨大的冲击波将地面的冰川和火山同时震碎。画面在白茫茫的蒸汽和能量闪光中结束。
-![](file-20260210204142913.png)
-
-#seedance2
-
----
-
-**神奇工具官～关注必回** @yehancheng3 [2026-02-10](https://x.com/yehancheng3/status/2021134993679077445)
-
-哥们冲了几千块了
-
----
-
-**John** @johnAGI168 [2026-02-10](https://x.com/johnAGI168/status/2021135352010809349)
-
-一点点🤏
-
----
-
-**神奇工具官～关注必回** @yehancheng3 [2026-02-10](https://x.com/yehancheng3/status/2021135563684970520)
-
-老哥，你的提示词是怎么生成的？ （Epic Disaster Action）、（Live-Action VFX） 这种提示词怎么写出来的 😅
-
----
-
-**John** @johnAGI168 [2026-02-10](https://x.com/johnAGI168/status/2021135881931812911)
-
-我哪里懂啊，想法告诉 AI 让 AI 来生成啊😏
-
----
-
-**吊吊浪荡** @24424006Com [2026-02-10](https://x.com/24424006Com/status/2021153016393433261)
-
-今天生成的视频质量比前几天糙了不少
-
----
-
-**John** @johnAGI168 [2026-02-10](https://x.com/johnAGI168/status/2021153685410103304)
-
-炸裂的还没发🥴，无所不能啊各种测试下来---
-标题: "Thread by @johnAGI168"
-链接: "https://x.com/johnAGI168/status/2020778466405159207"
-作者: "[[@johnAGI168]]"
-创建时间: "2026-02-10T20:34:02+08:00"
-摘要: "用户John分享了一个使用Seedance 2.0生成的、具有梵高后印象派油画风格的15秒抽象动画视频提示，并与其他用户讨论了不同AI视频生成工具（如SD2和Grok）的适用场景。"
-tags:
-  - "clippings"
-  - "AI"
-  - "文生视频"
-  - "Seedance 2.0"
-  - "梵高风格"
-  - "动画生成"
----
-**John** @johnAGI168 [2026-02-09](https://x.com/johnAGI168/status/2020778466405159207)
 
 抽象动画也是没问题，甚至有点治愈系😊
 
@@ -2960,45 +1086,6 @@ Seedance 2.0 文生视频 prompt👇
 背景：山谷中沉睡的小镇，房屋窗口透出温暖的、也是一圈圈涂抹出来的黄色灯光。
 整个画面随着笔触的走向在缓慢流动、呼吸。
 
-![](file-20260210204142951.png)
----
-
-**设计师童叔** @tngqingtng15022 [2026-02-09](https://x.com/tngqingtng15022/status/2020939568464420891)
-
-这个不体现sd2的特点，这个grok就可以了
-
----
-
-**John** @johnAGI168 [2026-02-10](https://x.com/johnAGI168/status/2021048467536429309)
-
-啥都测试一下看看，看看边界能力
-
----
-
-**设计师童叔** @tngqingtng15022 [2026-02-09](https://x.com/tngqingtng15022/status/2020939857502384427)
-
-sd2适合有分镜切换、有叙事的内容
-
----
-
-**Molted.Cloud** @MoltedCloud
-
-Deploy & Host OpenClaw in 60s. Free trial available  
-60 年代部署并托管 OpenClaw。提供免费试用---
-标题: "Thread by @johnAGI168"
-链接: "https://x.com/johnAGI168/status/2021121739455934644"
-作者: "[[@johnAGI168]]"
-创建时间: "2026-02-10T20:21:48+08:00"
-摘要: "本文展示了Seedance 2.0文生视频工具如何通过详细的提示词生成一段融合新国风武侠、水墨特效与真人CG结合的高质量15秒视频，并引发了关于AI降低创作门槛、开启想象力时代的讨论。"
-tags:
-  - "clippings"
-  - "AI"
-  - "文生视频"
-  - "Seedance 2.0"
-  - "新国风武侠"
-  - "创意生成"
----
-**John** @johnAGI168 [2026-02-10](https://x.com/johnAGI168/status/2021121739455934644)
 
 水墨新国风武侠🔪🔪🔪
 
@@ -3022,62 +1109,6 @@ Seedance 2.0文生视频 prompt 👇
 \[00:10-00:15\] 镜头3：破壁一击（Breaking the Dimension）。 慢动作升格。两人同时使出绝招对撞。黑色的墨龙拳与红色的朱雀刃在空中死死抵住。 
 【高能时刻】巨大的能量让整个二维的水墨世界崩塌。镜头猛地拉远，发现他们竟然打破了“次元壁”，从一幅挂在墙上被撕裂的水墨画中“跌落”到了现实世界的木地板上，周围环绕着尚未散去的墨韵和纸屑，两人保持着最后的格斗姿态定格喘息。
 
-![](file-20260210204143362.png)
-
-
----
-
-**dliphotos** @dliphotos [2026-02-10](https://x.com/dliphotos/status/2021122920874115318)
-
-wow, this's amazing!  
-哇，太棒了！
-
----
-
-**John** @johnAGI168 [2026-02-10](https://x.com/johnAGI168/status/2021123408407228600)
-
-🫶🫶🫶
-
----
-
-**乐Ler分享** @BLiang16660 [2026-02-10](https://x.com/BLiang16660/status/2021163723969163761)
-
-真的人人都是导演，如果要做精细的武打动作，可以用白模动作软件来弄，然后用2.0多模态参考白模的动作，动作还原度100%，比以前的工作流真的快太多，省太多了
-
----
-
-**Xiao xiao Ping** @xiaoxiaopingn [2026-02-10](https://x.com/xiaoxiaopingn/status/2021171266929987691)
-
-技术门槛越来越低。以后是比拼想象力的时代了。以后看到哪个电视剧、哪个电影不满意了，感觉他们粗制滥造的，完全可以自己重制。
-
----
-
-**阿蔺A-Lin** @alin\_zone [2026-02-10](https://x.com/alin_zone/status/2021197802412609599)
-
-卧槽 好炫啊，真的是想象力的时代来了
-
----
-
-**M W** @wangprinceK
-
-挺和谐的，Tetragrammaton，god，是吧
-
-![Image](https://pbs.twimg.com/media/G9lvrlLaMAM-SQE?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/G9lv7jJbkAAcPKP?format=jpg&name=large)---
-标题: "Thread by @johnAGI168"
-链接: "https://x.com/johnAGI168/status/2021118040583094648"
-作者: "[[@johnAGI168]]"
-创建时间: "2026-02-10T20:28:06+08:00"
-摘要: "用户John分享了使用Seedance 2.0文本生成视频模型创作的详细提示词，描述了一个现代玄幻动作片的场景，并引发了关于该模型生成内容（如意外生成演员郭达形象）及平台功能（移动端下架）的讨论。"
-tags:
-  - "clippings"
-  - "AI"
-  - "文生视频"
-  - "Seedance 2.0"
-  - "提示词工程"
-  - "内容审核"
----
-**John** @johnAGI168 [2026-02-10](https://x.com/johnAGI168/status/2021118040583094648)
-
 海贼王真人版💀💀💀
 
 不是啊哥们🤦‍♂️这演员咋那么眼熟呢❓
@@ -3100,50 +1131,6 @@ Seedance 2.0文生视频prompt👇
 
 \[00:10-00:15\] 镜头3：宿命对轰（Elemental Clash）。 全景/冲击波。两人同时冲向对方挥出重拳。沉重的暗红岩浆拳与轻盈狂暴的烈火拳在画面中心猛烈对撞。 【安全特效】没有血腥，只有纯粹的\*\*元素爆炸\*\*。岩浆吞噬了部分火焰，炸出一个巨大的环形冲击波（Shockwave），将地面的碎石和灰尘瞬间震飞，画面在刺眼的红橙色白光中结束。
 
-![](file-20260210204143021.png)
-#seedance2
-
----
-
-**cysca** @cyscays [2026-02-10](https://x.com/cyscays/status/2021130308179853698)
-
-Weren't they saying that there is censorship of real photos of actors in Seedance 2?  
-他们不是说《种子2》中演员的真实照片会被审查吗？
-
----
-
-**John** @johnAGI168 [2026-02-10](https://x.com/johnAGI168/status/2021131829537853605)
-
-This is pure text generation, I'm a premium member and the web version still has all the features, but the mobile app has been taken down. Seedance 2.0 model  
-这纯粹是文本生成，我是高级会员，网页版功能还在，但移动应用已经下架了。Seedance 2.0 模型
-
----
-
-**michael kidd** @kidd\_micha70463 [2026-02-10](https://x.com/kidd_micha70463/status/2021180747650892277)
-
-提示词没提郭达啊，莫名其妙生成郭达，郭达不得告它？
-
----
-
-**cryptogeek** @cxpitter4 [2026-02-10](https://x.com/cxpitter4/status/2021154914278195425)
-
-天下大乱了😄---
-标题: "Thread by @johnAGI168"
-链接: "https://x.com/johnAGI168/status/2020468650570842604"
-作者: "[[@johnAGI168]]"
-创建时间: "2026-02-10T20:48:07+08:00"
-摘要: "本文展示了一个由详细提示词生成的东方武侠巅峰对决AI视频，并附带了观众对其效果和提示词来源的评论。"
-tags:
-  - "clippings"
-  - "AI"
-  - "文生视频"
-  - "提示词工程"
-  - "东方武侠"
-  - "特效"
----
-**John** @johnAGI168 [2026-02-08](https://x.com/johnAGI168/status/2020468650570842604)
-
-继续Seedance 2.0炸场💣
 
 东方武侠巅峰对决，极致动能，纯文生视频📺
 
@@ -3166,83 +1153,6 @@ prompt👇
 \[00:10-00:15\] 镜头3：终极爆发（Ultimate Climax）。 
 两人落地同时释放绝招，两股巨大的能量团（一青一红）对轰。引发一场惊天动地的尘土与能量大爆炸，蘑菇云般的烟尘腾空遮蔽一切，整个石台基座开始崩塌陷落。
 
-![](file-20260210204948942.png)
-
----
-
-**Edgerlzy** @Edgerlzy [2026-02-09](https://x.com/Edgerlzy/status/2020869534496760289)
-
-想问一下这种prompt是哪个ai写的
-
----
-
-**Super Crypto Man** @yaorichcrypto [2026-02-08](https://x.com/yaorichcrypto/status/2020519729828647150)
-
-好棒，就是要这种prompt. Chatgpt写不出来🤣
-
----
-
-**Aron厚玉** @aronhouyu [2026-02-09](https://x.com/aronhouyu/status/2020742465708503425)
-
-你这，得投资一个亿！
-
----
-
-**Jakxz** @Jakxz3 [2026-02-09](https://x.com/Jakxz3/status/2020828917335208242)
-
-陈晓打陈晓
-
----
-
-**浮生般若** @wyd1025 [2026-02-08](https://x.com/wyd1025/status/2020489296113746354)
-
-太炸了👍
-
----
-
-**artest** @tearilize [2026-02-08](https://x.com/tearilize/status/2020498660203905346)
-
-一夜之间，演员，摄影也要失业了
-
----
-
-**AI Pulse** @youraipulse [2026-02-08](https://x.com/youraipulse/status/2020557223231934841)
-
-Looks really good! 👍  
-看起来真的很好！ 👍
-
----
-
-**harryskomi** @HarrysKomi [2026-02-09](https://x.com/HarrysKomi/status/2020726441030348962)
-
-Wonderful..👏thank u for the prompt  
-太棒了...... 👏 谢谢你的提示
-
----
-
-**JustNobody** @btc100w2025 [2026-02-08](https://x.com/btc100w2025/status/2020505044991520800)
-
-威压感还是很重
-
----
-
-**罗** @lu0280735830020 [2026-02-09](https://x.com/lu0280735830020/status/2020801071396827338)
-
-同样得提示词, grok的效果😂😂---
-标题: "Thread by @johnAGI168"
-链接: "https://x.com/johnAGI168/status/2020691248927875173"
-作者: "[[@johnAGI168]]"
-创建时间: "2026-02-12T21:31:07+08:00"
-摘要: "文章展示了用户使用 Seedance 2.0 文生视频工具，通过详细的提示词生成了一段15秒的豪门恩怨主题短剧，并附上了相关讨论。"
-tags:
-  - "clippings"
-  - "AI"
-  - "文生视频"
-  - "Seedance 2.0"
-  - "短剧生成"
-  - "提示词工程"
----
-**John** @johnAGI168 [2026-02-09](https://x.com/johnAGI168/status/2020691248927875173)
 
 看爽了，国产短剧自己想看啥就生成啥🤦‍♂️
 
@@ -3252,78 +1162,7 @@ prompt👇
 
 【风格】豪门恩怨（High Society），真假千金梗，极致反转，撕绿茶爽文，高定礼服，美艳御姐风。 【时长】15秒 【角色】真千金（烈焰红唇，黑天鹅晚礼服，气场两米八）VS 假千金（小白花装扮，楚楚可怜，眼泪汪汪）。 \[00:00-00:05\] 镜头1：绿茶演技（The Trap）。 奢华宴会厅。假千金故意摔碎一个古董花瓶，跌坐在碎片中，捂着手背哭得梨花带雨。周围宾客指指点点。 【动作】假千金指着真千金，眼神却在偷笑。 【对白口型指导】“姐姐，我知道你讨厌我抢了你的位置，但这个是奶奶的遗物啊！” \[00:05-00:10\] 镜头2：证据打脸（The Slapback）。 真千金冷笑一声，完全不慌。她从手包里慢条斯理地掏出一份文件（DNA鉴定书），直接甩在假千金脸上。纸张散落，特写镜头给到鉴定结果（红色大字：无血缘关系）。 【动作】真千金居高临下，眼神蔑视。 【对白口型指导】“演够了吗？野种。” \[00:10-00:15\] 镜头3：女王加冕（The Coronation）。 全场宾客倒吸一口凉气（震惊脸）。真千金无视地上的假千金，径直走向主位的宝座，一把扯下假千金头上的皇冠戴在自己头上。 【动作】她整理裙摆坐下，霸气侧漏。假千金面如死灰，被保安拖走。 【对白口型指导】“这是我家，滚。”
 
-![](file-20260212214544512.png)
 
----
-
-**ian li** @ianli\_solar [2026-02-09](https://x.com/ianli_solar/status/2020776037404315671)
-
-真棒！给prompt 的大佬才是真大佬
-
----
-
-**John** @johnAGI168 [2026-02-09](https://x.com/johnAGI168/status/2020852450001821775)
-
-我是小白而且☺️，提示词都是 AI 写的😂
-
----
-
-**Yunfan** @jyf1987 [2026-02-09](https://x.com/jyf1987/status/2020739891261476979)
-
-![Image](https://pbs.twimg.com/media/HAscN6WbYAAEMQK?format=png&name=large)
-
----
-
-**dark** @SoEasyFramwork [2026-02-09](https://x.com/SoEasyFramwork/status/2020848938052452699)
-
-配音还是少了点感觉
-
----
-
-**hengcherkeng** @hengcherkeng [2026-02-09](https://x.com/hengcherkeng/status/2020736984948588717)
-
-Next business model could be: free for default storyline. If you want special storyline you need to pay( eg 复活，重新穿梭）  
-下一个商业模式可能是：默认剧情免费。如果你想要特殊剧情，则需要付费（例如：复活，重新穿梭）。
-
----
-
-**ilovelife** @ilovek8s [2026-02-09](https://x.com/ilovek8s/status/2020763784709882020)
-
-中文识别还是稍微有瑕疵
-
----
-
-**山中无老虎** @xing\_qi95674 [2026-02-09](https://x.com/xing_qi95674/status/2020757810347409669)
-
-根据我的经验，如果真有这么好用的AI早被用来搞黄色了，现在还没听X上的小留说有什么特别惊艳的AI同人。看看就好
-
----
-
-**DX | Video Editor** @xiaoxie\_art [2026-02-09](https://x.com/xiaoxie_art/status/2020715768254706110)
-
-开始了
-
----
-
-**Lukiestone** @Ashton\_Waystone [2026-02-09](https://x.com/Ashton_Waystone/status/2020764014553571545)
-
-以前是观众挑剧本，现在是观众写剧本，唯一没变的是剧情都一样烂。---
-标题: "Thread by @johnAGI168"
-链接: "https://x.com/johnAGI168/status/2020727853281628276"
-作者: "[[@johnAGI168]]"
-创建时间: "2026-02-12T21:28:41+08:00"
-摘要: "文章讨论了用户John分享的Seedance 2.0模型生成的超现实主义文生视频提示及其惊人效果，并展示了其他用户使用类似提示在Grok等平台上的尝试与反响。"
-tags:
-  - "clippings"
-  - "AI"
-  - "文生视频"
-  - "Seedance 2.0"
-  - "Grok"
-  - "超现实主义"
----
-**John** @johnAGI168 [2026-02-09](https://x.com/johnAGI168/status/2020727853281628276)
-
-属实是过于恐怖了😱
 
 Seedance 2.0模型能力真没有边界了?
 
@@ -3355,66 +1194,6 @@ Seedance 2.0模型能力真没有边界了?
 
 结尾：镜头快速拉远，发现我们的整个世界（城市/麦田）其实只是巨人桌子上的一个\*\*玻璃微缩景观球\*\*。巨人正凑近脸在观察我们。
 
-![](file-20260212214544471.png)
-
----
-
-**Aleena Amir** @aleenaamiir [2026-02-09](https://x.com/aleenaamiir/status/2020880104675844414)
-
-This is some next level animation 🤯  
-这是更高层次的动画 🤯
-
----
-
-**Junyong Chong** @junyongz [2026-02-09](https://x.com/junyongz/status/2020787778837979309)
-
-用了Grok试试同样的提示
-
----
-
-**John** @johnAGI168 [2026-02-10](https://x.com/johnAGI168/status/2021048967539401064)
-
-grok其实算可以的了，我测试了很多，grok甚至可以很好生成带中文的视频，只不过目前Seedance 2.0确实强过头了
-
----
-
-**Matt Monk** @Matthew\_Mok [2026-02-09](https://x.com/Matthew_Mok/status/2020758198022819914)
-
-确实有超能力，梦境视频
-
----
-
-**MarioTan** @TanShilong [2026-02-09](https://x.com/TanShilong/status/2020741706749231322)
-
-太帅了
-
----
-
-**小墨同学** @legacyvps [2026-02-09](https://x.com/legacyvps/status/2020775000232657140)
-
-是该学习分镜技巧了，这样才能跟得上现在AI的进化的步伐
-
----
-
-**cryptogeek** @cxpitter4 [2026-02-10](https://x.com/cxpitter4/status/2021069277273653630)
-
-确实不错，可是现在限制有点多了
-
-![Image](https://pbs.twimg.com/media/HAxHyrZaAAQAHPS?format=jpg&name=large)---
-标题: "Thread by @johnAGI168"
-链接: "https://x.com/johnAGI168/status/2021919778667999639"
-作者: "[[@johnAGI168]]"
-创建时间: "2026-02-12T20:31:11+08:00"
-摘要: "这是一篇关于用户“John”分享的AI视频生成提示词，旨在用Seedance 2.0工具生成一部模仿90年代TVB神剧《大时代》风格、充满疯魔与宿命感的股市崩盘短片。"
-tags:
-  - "clippings"
-  - "AI"
-  - "视频生成"
-  - "Seedance 2.0"
-  - "股市"
-  - "90年代港剧"
----
-**John** @johnAGI168 [2026-02-12](https://x.com/johnAGI168/status/2021919778667999639)
 
 还原90年代TVB神剧《大时代》的那种疯魔、宿命感✨  
   
@@ -3469,25 +1248,6 @@ Seedance 2.0 文生视频 prompt 👇
 
 【字幕（黄色复古字体）】：股市有风险，入市需谨慎。  
   
-#Seedance 2.0  
-#Seedance 2.0
-
-![](file-20260212205948720.png)
----
-标题: "Thread by @johnAGI168"
-链接: "https://x.com/johnAGI168/status/2021472044295070168"
-作者: "[[@johnAGI168]]"
-创建时间: "2026-02-11T22:03:24+08:00"
-摘要: "这篇文章展示了一个名为“Seedance 2.0”的AI视频生成提示，用于创作一段模仿印度泰卢固语动作大片风格的15秒夸张特效视频，并附带了观众反应。"
-tags:
-  - "clippings"
-  - "AI"
-  - "视频生成"
-  - "Seedance 2.0"
-  - "印度电影风格"
-  - "社交媒体"
----
-**John** @johnAGI168 [2026-02-11](https://x.com/johnAGI168/status/2021472044295070168)
 
 他来了🔥他带着风☁️走过来了🔥  
   
@@ -3539,62 +1299,6 @@ Seedance 2.0文生视频prompt👇
 
 特效奇观：吉普车在接触他脚尖的瞬间，像玩具车一样被垂直踢飞到空中翻滚，零件四散。主角在漫天掉落的汽车零件和飞舞的打手背景中，淡定地重新戴上墨镜，整理发型。
 
-#Seedance2 2.0
-![](file-20260211225421272.png)
----
-
-**Mr. Repairman** @inc\_repairman [2026-02-11](https://x.com/inc_repairman/status/2021526242529615994)
-
-I can't tell if this is AI or an actual Bollywood action film. 😂  
-我分不清这是人工智能还是真正的宝莱坞动作片。 😂
-
-![Image](https://pbs.twimg.com/media/HA3nTd5bkAEzIJ4?format=png&name=large)
-
----
-
-**Rong Yan** @AnAuTCat [2026-02-11](https://x.com/AnAuTCat/status/2021503146447732794)
-
-分镜拿什么写的？
-
----
-
-**blackduke2015** @blackduke2015 [2026-02-11](https://x.com/blackduke2015/status/2021510039815836022)
-
-还真像😂
-
----
-
-**dliphotos** @dliphotos [2026-02-11](https://x.com/dliphotos/status/2021475352636424538)
-
-这风格，太牛了，超喜欢。
-
----
-
-**gump chen** @ChenGump [2026-02-11](https://x.com/ChenGump/status/2021543372058710116)
-
-BGM不对😆
-
----
-
-**madarbro** @madarbro [2026-02-11](https://x.com/madarbro/status/2021516791797969379)
-
-wthhhhhhhhhhhh hahahhaha  
-wthhhhhhhhhhhh 哈哈哈哈---
-标题: "Thread by @CharaspowerAI"
-链接: "https://x.com/CharaspowerAI/status/2021607724232868147"
-作者: "[[@CharaspowerAI]]"
-创建时间: "2026-02-12T21:11:50+08:00"
-摘要: "文章展示了如何使用 Kling 3.0 的 Storyboard 模式，通过一个文本提示生成包含多个镜头、霓虹灯反射等复杂视觉效果的赛车场景视频。"
-tags:
-  - "clippings"
-  - "AI"
-  - "Kling 3.0"
-  - "文本转视频"
-  - "多镜头拍摄"
-  - "霓虹灯反射"
----
-**Pierrick Chevallier | IA** @CharaspowerAI [2026-02-11](https://x.com/CharaspowerAI/status/2021607724232868147)
-
 🚨PromptShare🚨
 
 Multi Shot in text to video with Kling 3.0
@@ -3626,40 +1330,7 @@ Exterior low rear shot, the car’s tail lights flare as he slams the NOS button
 
 低角度后视镜头，他猛踩氮气加速按钮，车尾灯瞬间亮起。蓝色火焰从排气管喷涌而出。汽车向前疾驰，消失在灯火通明的东京街头。镜头跟随车尾，车灯模糊，引擎的轰鸣声在远处回荡。
 
-![](file-20260212214544733.png)
 
----
-
-**Benjamin De Ridder** @SilverCoder2009 [2026-02-11](https://x.com/SilverCoder2009/status/2021639635257213214)
-
-kling 3.0 Storyboard Mode handling neon reflections from one prompt so amazing.  
-kling 3.0 Storyboard Mode 仅凭一个提示就能处理霓虹灯反射效果，真是太棒了。
-
----
-
-**Cboe** @Cboe
-
-You’ve got options when it comes to trading. Discover how Cboe Index Options can support your strategies with flexible solutions to meet your goals.  
-交易方面，您有很多选择。了解芝加哥期权交易所指数期权如何通过灵活的解决方案支持您的交易策略，助您达成目标。---
-标题: "Thread by @songguoxiansen"
-链接: "https://x.com/songguoxiansen/status/2021918709573652649"
-作者: "[[@songguoxiansen]]"
-创建时间: "2026-02-13T01:04:54+08:00"
-摘要: "松果先森分享了一个专门为Seedance 2.0视频生成工具开发的Skill，该Skill利用Claude Opus等大模型API，可以高效生成三个不同风格（霸总虐恋、校园告白、闺蜜背叛）的专业视频提示词，并展示了其中一个提示词生成的视频效果。"
-tags:
-  - "clippings"
-  - "AI"
-  - "视频生成"
-  - "Seedance 2.0"
-  - "提示词工程"
-  - "松果先森"
----
-**松果先森** @songguoxiansen 2026-02-11
-
-用Seedance Skill生成了3个版本的提示词  
-  
-这个视频是用版本三的提示词生成的。  
-  
 视频提示词
 
 主题：年轻漂亮男女经典对打·现代短剧
@@ -3712,28 +1383,3 @@ Seedance 2.0 提示词
 
 被女生按住肩膀；13-15秒：女生凑近闺蜜耳边轻声"下次偷人的时候记得先把不该露的东西藏好"，闺蜜脸色煞白，女生转身潇洒离开，镜头拉远展示闺蜜站在原地浑身僵硬、男友追悔莫及，收束在低沉BGM与周围窃窃私语声中。
 
-> 2026-02-11
-> 
-> 一个Skill轻松生成Seedance 2.0专业视频提示词
-> 
-> Seedance 2.0太火爆了，好多朋友都在玩，但想要生成高质量视频，编写精准的提示词太麻烦了
-> 
-> 为了让这个过程更简单高效，我开发了一个专门针对Seedance 2.0的Skill
-> 
-> 使用到的工具有：
-> 
-> ZenMux平台的Claude Opus 4.6大模型api、Claude
-> 
-> ![Image](https://pbs.twimg.com/media/HA4RB9kakAAxM1s?format=jpg&name=large)
-
----
-
-**ponyo** @ponyodong [2026-02-12](https://x.com/ponyodong/status/2021935083188629894)
-
-好棒
-
----
-
-**paipiange** @paipiange [2026-02-12](https://x.com/paipiange/status/2021920389719634056)
-
-靠牛逼啊
