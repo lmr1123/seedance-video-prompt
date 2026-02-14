@@ -1,115 +1,236 @@
-# Seedance 2.0 Video Prompt Generator 🎬
+# Seedance 2.0 视频提示词生成器 🎬
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Claude Code Skill](https://img.shields.io/badge/Claude%20Code-Skill-blue)](https://github.com/anthropics/claude-code)
 
-专业的 Seedance 2.0 AI 视频提示词生成技能，帮助用户快速生成高质量的视频提示词。
+专业的 Seedance 2.0 AI 视频提示词生成工具。根据用户需求生成结构化、可直接使用的视频提示词，充分利用即梦平台的多模态能力和高质量视频描述。
 
-## ✨ 特性
+---
 
-- 🎯 **3版本输出** - 每次生成简洁版/分镜版/创意版三个版本供选择
-- 🔄 **迭代优化** - 支持多轮对话持续优化直到满意
-- 📚 **丰富案例库** - 7300+行参考文档，45+精选模板
-- 🎨 **风格关键词** - 导演风格/视觉风格/情绪氛围速查
-- 🎬 **风格组合指南** - 同一提示词5种电影风格呈现对比
-- 🤖 **小白问答系统** - 4步智能诊断，一次得到满意结果
-- 📷 **运镜手册** - 完整的运镜类型和技巧参考
-- 🎥 **影视理论** - 景别/蒙太奇/叙事/声音/色彩等专业知识
-- ❌ **负面提示** - 支持指定不想要的元素
+## ✨ 核心特性
 
-## 📦 安装
+### 🎯 严格工作流执行
+- **决策树自动判断**：时长路由 → 素材路由 → 复杂度判断
+- **强制输出规范**：每次输出包含执行路径声明
+- **质量自检清单**：6项检查确保输出质量
 
-### 方法一：手动安装
+### 📦 开箱即用
+- **3 套模板**：简洁版 / 分镜版 / 多模态版
+- **自动分段**：>15秒自动切分，提供衔接点
+- **图片匹配**：无素材时自动推荐风格并生成提示词
+
+### 📚 丰富参考库
+- 7300+ 行参考文档
+- 45+ 精选模板
+- 10+ 种导演风格关键词
+
+---
+
+## 🚀 快速开始
+
+### 方式一：命令行安装
+
+```bash
+# 使用 Claude Code CLI 安装
+npx @anthropic-ai/claude-code skill add https://github.com/lmr1123/seedance-video-prompt
+```
+
+### 方式二：手动安装
 
 ```bash
 # 克隆仓库
 git clone https://github.com/lmr1123/seedance-video-prompt.git
 
-# 复制到 Claude Code skills 目录
+# 复制到 skills 目录
 cp -r seedance-video-prompt ~/.claude/skills/
 ```
 
-### 方法二：使用 Claude Code CLI
+---
 
-```bash
-npx @anthropic-ai/claude-code skill add https://github.com/lmr1123/seedance-video-prompt
+## 📖 使用方法
+
+### 1. 告诉我你的需求
+
+**简单输入**：
+- "帮我生成一个10秒的猫咪打盹视频"
+- "做一个15秒的赛博朋克城市夜景"
+- "胡金铨风格的客栈武打，竖屏10秒"
+
+**详细输入**（可选）：
+```
+【视频主题】：猫咪在咖啡馆打盹
+【视觉风格】：日系清新治愈
+【时长】：10秒
+【比例】：9:16
 ```
 
-## 🚀 快速开始
-
-### 在 Claude Code 中使用
-
-1. 启动 Claude Code
-2. 输入你的视频需求，例如：
-   - "帮我生成一个15秒的短剧虐心片段"
-   - "我想做一个产品广告，手机展示"
-   - "生成一个赛博朋克风格的城市夜景"
-3. 技能会自动生成 3 个版本的提示词供你选择
-
-### 用户输入模板
+### 2. 我会自动处理
 
 ```
-【视频主题】：一句话描述你想表达的内容
-【视觉风格】：电影风格/导演风格/色彩风格
-【参考素材】：是否有图片/视频/音频参考
-【运镜需求】：推拉摇移/一镜到底/快切等
-【声音需求】：对白/旁白/音效/配乐风格
-【时长要求】：4-15秒具体秒数
-【负面需求】：不要出现什么元素
+【本轮执行路径】
+- 时长路由：单段生成
+- 素材路由：无素材需生成图片
+- 复杂度判断：简单
+- 采用模板：模板A
+
+【决策说明】
+用户要求10秒≤15秒，单主体单动作故判断为简单，
+无素材但主题为生活场景，输出简洁版提示词。
 ```
+
+### 3. 获取完整提示词
+
+我会输出可直接复制到即梦的：
+- 完整提示词
+- 声音设计方案
+- 禁止项声明
+- 如需素材：附带图片生成提示词
+
+---
 
 ## 📁 项目结构
 
 ```
 seedance-video-prompt/
-├── SKILL.md                    # 技能主文件
-├── README.md                   # 项目说明
-├── LICENSE                     # MIT 许可证
+├── SKILL.md              # 技能主文件（含完整工作流）
+├── QUICKSTART.md         # 快速上手指南
+├── README.md             # 本文档
+├── LICENSE               # MIT 许可证
 ├── agents/
-│   └── openai.yaml            # OpenAI Agent 配置
-└── references/                 # 参考文档目录
-    ├── official-manual.md      # 官方使用手册 (116KB)
-    ├── xiaoyunque-cases.md     # 小云雀实测案例库 (79KB)
-    ├── personal-collection.md  # 个人收藏案例库 (162KB)
-    ├── style-combinations.md   # 风格组合指南 (NEW)
-    ├── beginner-qa-system.md   # 小白问答系统 (NEW)
-    ├── film-theory-guide.md    # 影视理论基础 (12KB)
-    ├── style-keywords.md       # 风格关键词速查 (9KB)
-    ├── camera-movement.md      # 运镜词汇手册 (10KB)
-    ├── prompt-examples.md      # 提示词示例库 (10KB)
-    ├── multimodal-capabilities.md  # 多模态能力列表
-    └── platform-specs.md       # 平台规格限制
+│   └── openai.yaml       # Agent 配置
+└── references/           # 参考文档
+    ├── official-manual.md      # 官方手册
+    ├── personal-collection.md  # 精选模板
+    ├── style-combinations.md  # 风格组合
+    ├── beginner-qa-system.md   # 新手问答
+    ├── film-theory-guide.md    # 影视理论
+    ├── style-keywords.md      # 风格关键词
+    ├── camera-movement.md     # 运镜手册
+    └── prompt-examples.md     # 示例库
 ```
 
-## 📚 参考文档
+---
+
+## 🛠️ 工作流决策树
+
+```
+【第一轮：时长路由】
+├── ≤15秒 → 单段生成
+└── >15秒 → 超长分段策略
+
+【第二轮：素材路由】
+├── 有素材 → 模板C（多模态参考）
+├── 无素材需生成 → 图片风格匹配
+└── 纯文本 → 判断复杂度
+
+【第三轮：复杂度判断】
+├── 简单（单主体+单动作）→ 模板A
+├── 中等（多动作+风格化）→ 模板A/B
+└── 复杂（多镜头切换）→ 模板B
+```
+
+---
+
+## 📋 输出规范
+
+### 默认输出格式
+
+```
+时长: X秒
+画面比例: 16:9 / 9:16
+风格: xxx
+
+【本轮执行路径】
+...
+
+提示词:
+...
+
+声音设计:
+- 配乐: xxx
+- 音效: xxx
+
+禁止:
+- xxx
+
+参考素材准备（如需要）:
+- @图片1 [用途]
+  图片生成提示词: xxx
+```
+
+### 多版本探索（用户要求时）
+
+- **版本 A**：简洁描述版（模板A）
+- **版本 B**：分镜脚本版（模板B）
+- **版本 C**：创意风格版（强化风格）
+
+---
+
+## 💡 常见示例
+
+### 示例 1：简单场景
+
+**输入**：
+> 猫咪在咖啡馆打盹，8秒
+
+**输出路径**：
+```
+- 时长路由：单段生成
+- 素材路由：无素材
+- 复杂度：简单
+- 模板：模板A
+```
+
+### 示例 2：有素材参考
+
+**输入**：
+> 参考@图1的男人形象，在@图2的电梯中，完全参考@视频1的运镜
+
+**输出路径**：
+```
+- 时长路由：单段生成
+- 素材路由：有素材
+- 复杂度：中等
+- 模板：模板C
+```
+
+### 示例 3：超长视频
+
+**输入**：
+> 做一段30秒的仙侠剑客出场
+
+**输出路径**：
+```
+- 时长路由：超长分段（2段）
+- 素材路由：无素材需生成
+- 复杂度：复杂
+- 模板：超长分段策略
+```
+
+---
+
+## 🎨 风格速查
+
+| 导演/风格 | 关键词 | 适用场景 |
+|----------|--------|---------|
+| **王家卫** | 慢快门、霓虹灯、黄绿色调 | 文艺、都市 |
+| **韦斯·安德森** | 对称构图、糖果色、童话感 | 奇幻、广告 |
+| **张艺谋** | 大色块、高饱和、仪式感 | 史诗、古装 |
+| **赛博朋克** | 霓虹灯、紫蓝粉、雨天 | 科幻、夜景 |
+| **胡金铨** | 胶片、戏曲节奏、写实武打 | 武侠、动作 |
+| **诺兰** | IMAX、实景感、宏大场面 | 科幻、悬疑 |
+
+---
+
+## 📖 进阶文档
 
 | 文档 | 说明 |
 |------|------|
-| [official-manual.md](references/official-manual.md) | 官方使用手册 - 参数规格、10大类实战案例 |
-| [xiaoyunque-cases.md](references/xiaoyunque-cases.md) | 小云雀实测案例库 - 15+场景类型 |
-| [personal-collection.md](references/personal-collection.md) | 个人收藏案例库 - 45+精选模板 |
-| [style-combinations.md](references/style-combinations.md) | 风格组合指南 - 同一提示词5种电影风格对比 |
-| [beginner-qa-system.md](references/beginner-qa-system.md) | 小白问答系统 - 4步智能诊断系统 |
-| [film-theory-guide.md](references/film-theory-guide.md) | 影视理论基础 - 景别/蒙太奇/叙事等 |
-| [style-keywords.md](references/style-keywords.md) | 风格关键词速查 - 导演风格/视觉风格 |
-| [camera-movement.md](references/camera-movement.md) | 运镜词汇手册 - 运镜类型/角度视角 |
-| [prompt-examples.md](references/prompt-examples.md) | 提示词示例库 - 各类型示例 |
+| [SKILL.md](SKILL.md) | 完整技术规格和工作流 |
+| [QUICKSTART.md](QUICKSTART.md) | 3 步快速上手 |
+| [references/](references/) | 详细参考文档 |
 
-## 🎯 输出格式
-
-每次生成 3 个版本的提示词：
-
-- **版本 A：简洁描述版** - 纯文字描述，适合快速上手
-- **版本 B：分镜脚本版** - 带时间轴的分镜描述，控制更精准
-- **版本 C：创意风格版** - 强化风格化表达，加入创意元素和特效
-
-## 🔧 支持的场景模板
-
-- 情感短剧（虐心/甜宠/爽剧/搞笑）
-- 产品广告（高端/亲民/科技/温暖）
-- 特效大片（武侠/科幻/魔幻/动作）
-- 舞蹈/运动（跟拍/环绕/第一人称）
-- 美食展示（制作过程/成品展示）
+---
 
 ## 🤝 贡献
 
@@ -121,15 +242,19 @@ seedance-video-prompt/
 4. 推送到分支 (`git push origin feature/AmazingFeature`)
 5. 提交 Pull Request
 
+---
+
 ## 📄 许可证
 
-本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件
+MIT License - 详见 [LICENSE](LICENSE)
+
+---
 
 ## 🙏 致谢
 
-- [即梦 Seedance](https://jimeng.jianying.com/) - 视频生成平台
+- [即梦 Seedance](https://jimeng.jianying.com/) - AI 视频生成平台
 - 所有贡献者和案例提供者
 
 ---
 
-**Star ⭐ 本项目以获取最新更新！**
+**⭐ Star 本项目获取最新更新！**
