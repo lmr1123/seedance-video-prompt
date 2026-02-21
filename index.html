@@ -114,6 +114,34 @@
             box-shadow: 0 0 0 2px rgba(99, 102, 241, 0.2);
         }
 
+        .custom-select {
+            width: 100%;
+            background: rgba(15, 23, 42, 0.6);
+            border: 1px solid var(--surface-border);
+            color: var(--text-main);
+            padding: 10px 12px;
+            border-radius: 8px;
+            outline: none;
+            font-size: 0.9rem;
+            transition: all 0.2s;
+            appearance: none;
+            cursor: pointer;
+            background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%2394a3b8%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%200-13-5.4H18.4c-5%200-9.3%201.8-12.9%205.4A17.6%2017.6%200%200%200%200%2082.2c0%205%201.8%209.3%205.4%2012.9l128%20127.9c3.6%203.6%207.8%205.4%2012.8%205.4s9.2-1.8%2012.8-5.4L287%2095c3.5-3.5%205.4-7.8%205.4-12.8%200-5-1.9-9.2-5.5-12.8z%22%2F%3E%3C%2Fsvg%3E");
+            background-repeat: no-repeat, repeat;
+            background-position: right .7em top 50%, 0 0;
+            background-size: .65em auto, 100%;
+        }
+
+        .custom-select:focus {
+            border-color: var(--primary);
+            box-shadow: 0 0 0 2px rgba(99, 102, 241, 0.2);
+        }
+
+        .custom-select option {
+            background-color: var(--bg-color);
+            color: var(--text-main);
+        }
+
         .btn {
             background: var(--primary);
             color: white;
@@ -467,19 +495,33 @@
             </p>
 
             <div class="settings-group">
+                <label for="providerSelect">服务商 (Provider)</label>
+                <select id="providerSelect" class="custom-select">
+                    <option value="deepseek">DeepSeek</option>
+                    <option value="moonshot">Kimi (Moonshot)</option>
+                    <option value="zhipu">GLM (智谱清言)</option>
+                    <option value="minimax">MiniMax</option>
+                    <option value="qwen">通义千问 (Qwen)</option>
+                    <option value="doubao">豆包 (Doubao)</option>
+                    <option value="custom">自定义 (Custom)</option>
+                </select>
+            </div>
+
+            <div class="settings-group">
                 <label for="apiKey">API Key</label>
-                <input type="password" id="apiKey" placeholder="sk-..." autocomplete="off">
+                <input type="password" id="apiKey" placeholder="输入 API Key" autocomplete="off">
             </div>
 
-            <div class="settings-group">
-                <label for="baseUrl">Base URL (OpenAI 兼容)</label>
-                <input type="text" id="baseUrl" value="https://api.openai.com/v1"
-                    placeholder="https://api.openai.com/v1">
-            </div>
+            <div id="advancedConfig" style="display: none; flex-direction: column; gap: 20px;">
+                <div class="settings-group" style="margin-top: 12px;">
+                    <label for="baseUrl">Base URL (OpenAI 兼容)</label>
+                    <input type="text" id="baseUrl" value="https://api.openai.com/v1">
+                </div>
 
-            <div class="settings-group">
-                <label for="modelName">模型名称</label>
-                <input type="text" id="modelName" value="gpt-4o" placeholder="gpt-4o / claude-3-5-sonnet">
+                <div class="settings-group">
+                    <label for="modelName" id="modelLabel">模型名称</label>
+                    <input type="text" id="modelName" value="gpt-4o">
+                </div>
             </div>
 
             <button class="btn" id="saveSettingsBtn" style="margin-top: 8px;">保存设置并初始化</button>
@@ -531,7 +573,20 @@
     </div>
 
     <script>
+        const PROVIDERS = {
+            'deepseek': { name: 'DeepSeek', url: 'https://api.deepseek.com', model: 'deepseek-chat' },
+            'moonshot': { name: 'Kimi (Moonshot)', url: 'https://api.moonshot.cn/v1', model: 'moonshot-v1-8k' },
+            'zhipu': { name: 'GLM (智谱清言)', url: 'https://open.bigmodel.cn/api/paas/v4', model: 'glm-4-flash' },
+            'minimax': { name: 'MiniMax', url: 'https://api.minimax.chat/v1', model: 'abab6.5s-chat' },
+            'qwen': { name: '通义千问 (Qwen)', url: 'https://dashscope.aliyuncs.com/compatible-mode/v1', model: 'qwen-plus' },
+            'doubao': { name: '豆包 (Doubao)', url: 'https://ark.cn-beijing.volces.com/api/v3', model: 'ep-xxxxxxxx-xxxx' },
+            'custom': { name: '自定义配置', url: 'https://api.openai.com/v1', model: 'gpt-4o' }
+        };
+
         // DOM Elements
+        const providerSelect = document.getElementById('providerSelect');
+        const advancedConfig = document.getElementById('advancedConfig');
+        const modelLabel = document.getElementById('modelLabel');
         const apiKeyInput = document.getElementById('apiKey');
         const baseUrlInput = document.getElementById('baseUrl');
         const modelNameInput = document.getElementById('modelName');
@@ -552,17 +607,51 @@
             gfm: true
         });
 
+        providerSelect.addEventListener('change', (e) => {
+            const val = e.target.value;
+            if (val === 'custom') {
+                advancedConfig.style.display = 'flex';
+                modelLabel.textContent = "模型名称";
+            } else if (val === 'doubao') {
+                advancedConfig.style.display = 'flex';
+                baseUrlInput.value = PROVIDERS[val].url;
+                modelNameInput.value = PROVIDERS[val].model;
+                modelLabel.textContent = "模型接入点 (Endpoint ID)";
+            } else {
+                advancedConfig.style.display = 'none';
+                baseUrlInput.value = PROVIDERS[val].url;
+                modelNameInput.value = PROVIDERS[val].model;
+                modelLabel.textContent = "模型名称";
+            }
+        });
+
+        const encodeKey = (str) => btoa(encodeURIComponent(str));
+        const decodeKey = (str) => decodeURIComponent(atob(str));
+
         // Load settings from localStorage
         window.addEventListener('DOMContentLoaded', () => {
-            const savedKey = localStorage.getItem('seedance_api_key');
+            const savedProvider = localStorage.getItem('seedance_provider') || 'deepseek';
+            const savedKeyEnc = localStorage.getItem('seedance_api_key_enc');
+            const savedKeyLegacy = localStorage.getItem('seedance_api_key');
             const savedUrl = localStorage.getItem('seedance_base_url');
             const savedModel = localStorage.getItem('seedance_model');
 
-            if (savedKey) apiKeyInput.value = savedKey;
-            if (savedUrl) baseUrlInput.value = savedUrl;
-            if (savedModel) modelNameInput.value = savedModel;
+            providerSelect.value = savedProvider;
+            providerSelect.dispatchEvent(new Event('change'));
 
-            if (savedKey) {
+            if (savedKeyEnc) {
+                try { apiKeyInput.value = decodeKey(savedKeyEnc); }
+                catch (e) { apiKeyInput.value = savedKeyEnc; }
+            } else if (savedKeyLegacy) {
+                apiKeyInput.value = savedKeyLegacy;
+            }
+
+            if (savedProvider === 'custom' || savedProvider === 'doubao') {
+                if (savedUrl) baseUrlInput.value = savedUrl;
+                if (savedModel) modelNameInput.value = savedModel;
+            }
+
+            if (apiKeyInput.value) {
                 initializeSystem();
             }
         });
@@ -599,7 +688,10 @@
                 return;
             }
 
-            localStorage.setItem('seedance_api_key', key);
+            const provider = providerSelect.value;
+            localStorage.setItem('seedance_provider', provider);
+            localStorage.setItem('seedance_api_key_enc', encodeKey(key));
+            localStorage.removeItem('seedance_api_key'); // clear legacy plain text
             localStorage.setItem('seedance_base_url', baseUrlInput.value.trim());
             localStorage.setItem('seedance_model', modelNameInput.value.trim());
 
