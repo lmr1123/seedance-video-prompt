@@ -495,6 +495,14 @@
             </p>
 
             <div class="settings-group">
+                <label for="versionSelect">工作流版本</label>
+                <select id="versionSelect" class="custom-select">
+                    <option value="lite">Lite 版 (轻量极速，适合零门槛)</option>
+                    <option value="pro">Pro 版 (专业沉浸，要求更高发问质量)</option>
+                </select>
+            </div>
+
+            <div class="settings-group">
                 <label for="providerSelect">服务商 (Provider)</label>
                 <select id="providerSelect" class="custom-select">
                     <option value="deepseek">DeepSeek</option>
@@ -584,6 +592,7 @@
         };
 
         // DOM Elements
+        const versionSelect = document.getElementById('versionSelect');
         const providerSelect = document.getElementById('providerSelect');
         const advancedConfig = document.getElementById('advancedConfig');
         const modelLabel = document.getElementById('modelLabel');
@@ -630,12 +639,14 @@
 
         // Load settings from localStorage
         window.addEventListener('DOMContentLoaded', () => {
+            const savedVersion = localStorage.getItem('seedance_version') || 'lite';
             const savedProvider = localStorage.getItem('seedance_provider') || 'deepseek';
             const savedKeyEnc = localStorage.getItem('seedance_api_key_enc');
             const savedKeyLegacy = localStorage.getItem('seedance_api_key');
             const savedUrl = localStorage.getItem('seedance_base_url');
             const savedModel = localStorage.getItem('seedance_model');
 
+            versionSelect.value = savedVersion;
             providerSelect.value = savedProvider;
             providerSelect.dispatchEvent(new Event('change'));
 
@@ -656,14 +667,15 @@
             }
         });
 
-        // Load SKILL-Lite.md to act as System Prompt
+        // Load the chosen skill file to act as System Prompt
         async function loadSystemPrompt() {
             try {
-                // Fetch the Lite markdown from the repository relative path
-                let fetchUrl = './SKILL-Lite.md';
+                const fileName = versionSelect.value === 'pro' ? 'SKILL.md' : 'SKILL-Lite.md';
+                // Fetch the markdown from the repository relative path
+                let fetchUrl = `./${fileName}`;
                 // 如果是本地 file:// 协议打开，则使用 GitHub Raw 链接避免跨域报错
                 if (window.location.protocol === 'file:') {
-                    fetchUrl = 'https://raw.githubusercontent.com/lmr1123/seedance-video-prompt/main/SKILL-Lite.md';
+                    fetchUrl = `https://raw.githubusercontent.com/lmr1123/seedance-video-prompt/main/${fileName}`;
                 }
                 const response = await fetch(fetchUrl);
                 if (!response.ok) {
@@ -675,7 +687,7 @@
                 systemPromptText = mainContent;
                 return true;
             } catch (err) {
-                console.error("加载 SKILL-Lite.md 失败:", err);
+                console.error("加载技能文件失败:", err);
                 systemPromptText = "你是专业的即梦 AI 视频提示词工程师。请务必优先要求使用防翻车负面词汇，并使用诸如 0-3秒 的分镜方式规划视频。"; // Fallback
                 return false;
             }
@@ -689,6 +701,7 @@
             }
 
             const provider = providerSelect.value;
+            localStorage.setItem('seedance_version', versionSelect.value);
             localStorage.setItem('seedance_provider', provider);
             localStorage.setItem('seedance_api_key_enc', encodeKey(key));
             localStorage.removeItem('seedance_api_key'); // clear legacy plain text
