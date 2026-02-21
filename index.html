@@ -503,6 +503,14 @@
             </div>
 
             <div class="settings-group">
+                <label for="langSelect">提示词语言 (Prompt Language)</label>
+                <select id="langSelect" class="custom-select">
+                    <option value="zh">中文 (Chinese)</option>
+                    <option value="en">英文 (English)</option>
+                </select>
+            </div>
+
+            <div class="settings-group">
                 <label for="providerSelect">服务商 (Provider)</label>
                 <select id="providerSelect" class="custom-select">
                     <option value="deepseek">DeepSeek</option>
@@ -593,6 +601,7 @@
 
         // DOM Elements
         const versionSelect = document.getElementById('versionSelect');
+        const langSelect = document.getElementById('langSelect');
         const providerSelect = document.getElementById('providerSelect');
         const advancedConfig = document.getElementById('advancedConfig');
         const modelLabel = document.getElementById('modelLabel');
@@ -640,6 +649,7 @@
         // Load settings from localStorage
         window.addEventListener('DOMContentLoaded', () => {
             const savedVersion = localStorage.getItem('seedance_version') || 'lite';
+            const savedLang = localStorage.getItem('seedance_lang') || 'zh';
             const savedProvider = localStorage.getItem('seedance_provider') || 'deepseek';
             const savedKeyEnc = localStorage.getItem('seedance_api_key_enc');
             const savedKeyLegacy = localStorage.getItem('seedance_api_key');
@@ -647,6 +657,7 @@
             const savedModel = localStorage.getItem('seedance_model');
 
             versionSelect.value = savedVersion;
+            langSelect.value = savedLang;
             providerSelect.value = savedProvider;
             providerSelect.dispatchEvent(new Event('change'));
 
@@ -702,6 +713,7 @@
 
             const provider = providerSelect.value;
             localStorage.setItem('seedance_version', versionSelect.value);
+            localStorage.setItem('seedance_lang', langSelect.value);
             localStorage.setItem('seedance_provider', provider);
             localStorage.setItem('seedance_api_key_enc', encodeKey(key));
             localStorage.removeItem('seedance_api_key'); // clear legacy plain text
@@ -712,10 +724,18 @@
 
             await loadSystemPrompt();
 
+            // Append language instruction
+            let finalSystemPrompt = systemPromptText;
+            if (langSelect.value === 'en') {
+                finalSystemPrompt += "\n\n【User Preference Instruction】 Please ensure the ultimate 'Prompt' (提示词) generated for the video AI model is written in ENGLISH, regardless of the user's input language.";
+            } else {
+                finalSystemPrompt += "\n\n【偏好指令】请确保最终输出使用的提示词（Prompt）是用中文（Chinese）撰写的。";
+            }
+
             // Reset history
             chatHistory = [{
                 role: "system",
-                content: systemPromptText
+                content: finalSystemPrompt
             }];
 
             updateStatus('success', '系统就绪！');
