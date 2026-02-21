@@ -571,7 +571,12 @@
         async function loadSystemPrompt() {
             try {
                 // Fetch the Lite markdown from the repository relative path
-                const response = await fetch('./SKILL-Lite.md');
+                let fetchUrl = './SKILL-Lite.md';
+                // 如果是本地 file:// 协议打开，则使用 GitHub Raw 链接避免跨域报错
+                if (window.location.protocol === 'file:') {
+                    fetchUrl = 'https://raw.githubusercontent.com/lmr1123/seedance-video-prompt/main/SKILL-Lite.md';
+                }
+                const response = await fetch(fetchUrl);
                 if (!response.ok) {
                     throw new Error('网络请求失败，可能是本地跨域或文件不存在。');
                 }
