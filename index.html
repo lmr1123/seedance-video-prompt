@@ -879,7 +879,11 @@
 
             } catch (error) {
                 typingDiv.remove();
-                addBotMessage(`❌ 发送失败: ${error.message}`);
+                if (error.message.includes('Failed to fetch') || error.message.includes('NetworkError')) {
+                    addBotMessage(`❌ 发送失败 / Failed to Fetch: 请求被拦截或网络不通。\n\n**【排查建议】**\n1. 🛡️ **跨域限制 (CORS)**：部分国产模型（如 \`Kimi\`、\`MiniMax\`）的官方 API 不允许前端浏览器直接调用。**建议切换为 \`DeepSeek\`、\`豆包\` 或 \`智谱 GLM\`，它们原生支持网页端直接调用。**\n2. 🌐 **网络环境**：如果您使用的是自定义的境外接口（如 OpenAI），请检查本地是否已开启全局网络代理。\n3. 🔑 **配置错误**：请检查 Base URL 中是否有不可见的空格或格式错误。`, true);
+                } else {
+                    addBotMessage(`❌ 发送失败: ${error.message}`);
+                }
             } finally {
                 userInput.disabled = false;
                 sendBtn.disabled = false;
